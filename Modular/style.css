@@ -12,6 +12,28 @@ table, tr, th, td{
     border-collapse: collapse;
 }
 
+/* Scrollbars */
+body::-webkit-scrollbar {
+	width: 5px;
+	overflow: visible;
+	background: #ffffff;
+}
+body::-webkit-scrollbar-track {
+	background-color: transparent;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+body::-webkit-scrollbar-thumb {
+	border-radius: 1px;
+	background-color: #666666;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+  border-left: solid 1px #ffffff;
+}
+body::-webkit-scrollbar-thumb:hover{
+	background-color: #333333;
+}
+
 
 .titulo{
     background: #EA5A33;
@@ -29,6 +51,12 @@ th{
 input{
     width: 95%;
     margin: auto;
+}
+tbody tr td:nth-child(1), tbody tr td:nth-child(3),tbody tr td:nth-child(5){
+    text-align: center;
+}
+tbody tr td:nth-child(3){
+    width: 250px;
 }
 
 

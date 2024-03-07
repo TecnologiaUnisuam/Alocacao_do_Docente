@@ -188,7 +188,7 @@ estfto10;ESTFTO10 ESTFTO10;2024-1|PFT21111|BS|T|FTO1102T;Estágio em Atenção B
 estpsi2;Edna Monteiro;2024-1|PPS211.113|CG|N|PSI1302N;Estágio Profissional I Orientação de Estágio [PPS211.113|CG|N|PSI1302N];Presencial
 arq1012;Mario de Lima;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Sociedade [PAR23103|BG|M|ARQ0301M];Presencial
 arq1025;Adriana Colafranceschi Durante;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Sociedade [PAR23103|BG|M|ARQ0301M];Presencial
-estfar02;Estágio Farmácia;2024-1|PFA21112|BS|T|FAR1201T;Estágio de  Educação em Saúde II Orientação de Estágio [PFA21112|BS|T|FAR1201T];Presencial
+estfar02;Estágio Farmácia;2024-1|PFA21112|BS|T|FAR1201T;Estágio de Educação em Saúde II Orientação de Estágio [PFA21112|BS|T|FAR1201T];Presencial
 pub1019;Samuel Florensio Rodrigues Otaviano;2024-1|PDG23101|BS|M|SDG0101M;Identidade Visual [PDG23101|BS|M|SDG0101M];Presencial
 pub1021;Nilmar Figueiredo de Souza;2024-1|PDG23101|BS|M|SDG0101M;Identidade Visual [PDG23101|BS|M|SDG0101M];Presencial
 estfto15;ESTFTO15 Estfto15;2024-1|PFT21112|BS|M|FTO1204M;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|M|FTO1204M];Presencial
@@ -962,7 +962,7 @@ fto1159;Luiggi Lustosa;2024-1|PFT23101|BS|M|SAU0029M;Humanização e Saúde [PFT
 ele1017;Jorge Dias Ferreira;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial
 ele1019;Ana Caroline Torres de Carvalho;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial
 ele1023;MARIO Chalco;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial
-estfar02;Estágio Farmácia;2024-1|PFA21112|CG|T|FAR1201T;Estágio de  Educação em Saúde II [PFA21112|CG|T|FAR1201T];Presencial
+estfar02;Estágio Farmácia;2024-1|PFA21112|CG|T|FAR1201T;Estágio de Educação em Saúde II [PFA21112|CG|T|FAR1201T];Presencial
 eng1002;Gustavo Eduardo Oviedo Celis ;2024-1|PCI23101|BS|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0102N];Presencial
 mat1061;Pedro Passos;2024-1|PCI23101|BS|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0102N];Presencial
 enf1103;Alcilea Andrade Vila Flor;2024-1|PFT23101|BS|M|SAU0028M;Humanização e Saúde [PFT23101|BS|M|SAU0028M];Presencial
@@ -1397,7 +1397,7 @@ tut1061;Brayan Lima Cordeiro;2024-1|PMK23104B|BS|N|CSA0027N;Gestão em Marketing
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BS|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|BS|N|ENG0401N];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|CG|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0401M];Presencial (TUTOR)
 "tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0302M];Presencial (TUTOR)"
-tut1056;João Gabriel  Miranda;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|BG|N|ENG0401N];Presencial (TUTOR)
 tut1078;Karolynne Gorito de Oliveira;2024-1|PDR21105|BS|M|JUR0501M;Instrumentalização do processo na solução dos conflitos privados [PDR21105|BS|M|JUR0501M];Presencial (TUTOR)
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|PFT23103|CG|N|FTO0301N;Saúde e Homeostase [PFT23103|CG|N|FTO0301N];Presencial (TUTOR)
@@ -1555,7 +1555,7 @@ tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23102|BS|N|ADS0202N;Desenv
 tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|BS|M|PSI0501M;Grupos e instituições [PPS211.105|BS|M|PSI0501M];Presencial (TUTOR)
 "tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0302N];Presencial (TUTOR)"
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|CG|M|SAU0020M;Humanização e Saúde [PFT23101|CG|M|SAU0020M];Presencial (TUTOR)
-tut1056;João Gabriel  Miranda;2024-1|PGA23104|BS|N|GAS0401N;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|N|GAS0401N];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23104|BS|N|GAS0401N;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|N|GAS0401N];Presencial (TUTOR)
 tut1024;Davi dos Santos Marques;2024-1|PAD23103|CG|N|CSA0006N;Finanças Empresariais e Cenários Econômicos [PAD23103|CG|N|CSA0006N];Presencial (TUTOR)
 "tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0303N];Presencial (TUTOR)"
 "tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0301N];Presencial (TUTOR)"
@@ -1684,7 +1684,7 @@ tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|BS|N|PSI0501N;Grupos e
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23103|BS|M|BMV0301M;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BS|M|BMV0301M];Presencial (TUTOR)
 tut1096;Leonardo Rodrigues Pereira;2024-1|PAR23103|BS|M|ARQ0301M;Habitar e Sociedade [PAR23103|BS|M|ARQ0301M];Presencial (TUTOR)
 tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|M|ADS0302M;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|M|ADS0302M];Presencial (TUTOR)
-tut1056;João Gabriel  Miranda;2024-1|PGA23102|BG|N|GAS0201N;Cozinha Brasileira e das Américas [PGA23102|BG|N|GAS0201N];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23102|BG|N|GAS0201N;Cozinha Brasileira e das Américas [PGA23102|BG|N|GAS0201N];Presencial (TUTOR)
 tut1078;Karolynne Gorito de Oliveira;2024-1|PDR23103|BS|N|JUR0303N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0303N];Presencial (TUTOR)
 tut1029;Carolina Boucinha Martins;2024-1|PFT23102|CG|N|SAU0021N;Origem da Vida [PFT23102|CG|N|SAU0021N];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BG|N|ENG0402N;Liderança e Gestão de Equipes [PCI23104|BG|N|ENG0402N];Presencial (TUTOR)
@@ -1726,7 +1726,7 @@ tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23102|BS|M|BMV0201M;Mecanismo
 tut1064;Nielson Athayde de Souza;2024-1|PPS211.106|CG|M|PSI0601M;Processos Clínicos [PPS211.106|CG|M|PSI0601M];Presencial (TUTOR)
 "tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|BS|M|PSI0301M];Presencial (TUTOR)"
 tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|PPU23105|BS|N|CSA0031N;Gerenciamento de Comunicação e Marketing [PPU23105|BS|N|CSA0031N];Presencial (TUTOR)
-tut1056;João Gabriel  Miranda;2024-1|PGA23104|BS|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|M|GAS0401M];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23104|BS|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|M|GAS0401M];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC24101|BS|M|EST0102M;Estética Facial [PEC24101|BS|M|EST0102M];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC23103|BS|M|EST0301M;Estética Corporal [PEC23103|BS|M|EST0301M];Presencial (TUTOR)
 tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|PCI23102|CG|N|ENG0202N;Planejamento de Modelos [PCI23102|CG|N|ENG0202N];Presencial (TUTOR)
@@ -1737,7 +1737,7 @@ tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|BS|M|ENF0501M;Cuidad
 tut1071;Wallace da Silva Carvalho;2024-1|PCI23101|BG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0101N];Presencial (TUTOR)
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|PFT23103|BS|M|SAU0034M;Saúde e Homeostase [PFT23103|BS|M|SAU0034M];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21106|CG|M|BME0601M;Análises Clínicas [PBM21106|CG|M|BME0601M];Presencial (TUTOR)
-tut1056;João Gabriel  Miranda;2024-1|PGA23104|BG|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BG|M|GAS0401M];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23104|BG|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BG|M|GAS0401M];Presencial (TUTOR)
 tut1103;Danielle Mendes da Silva Albuquerque;2024-1|POD23103|BS|I|ODO0302I;Diagnóstico e Saúde Coletiva [POD23103|BS|I|ODO0302I];Presencial (TUTOR)
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|PFT23103|BS|N|SAU0043N;Saúde e Homeostase [PFT23103|BS|N|SAU0043N];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|CG|N|CIV0601N;Geotecnia [PCI20206|CG|N|CIV0601N];Presencial (TUTOR)
@@ -1766,7 +1766,7 @@ tut1095;Ricardo Ferreira Martins;2024-1|PFT23102|BS|M|SAU0026M;Origem da Vida [P
 tut1059;Marcelo Jacinto de Abreu;2024-1|PPS23101|BS|M|PSI0101M;Ciência, Saúde e Pesquisa [PPS23101|BS|M|PSI0101M];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|BG|N|CET0004N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|CET0004N];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23102|BG|M|BMV0201M;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BG|M|BMV0201M];Presencial (TUTOR)
-tut1056;João Gabriel  Miranda;2024-1|PGA23104|BG|N|GAS0401N;Gestão em Empreendimentos Gastronômicos [PGA23104|BG|N|GAS0401N];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23104|BG|N|GAS0401N;Gestão em Empreendimentos Gastronômicos [PGA23104|BG|N|GAS0401N];Presencial (TUTOR)
 tut1120;Carla Andressa Pedron;2024-1|PFT21104|BS|N|FTO0401N;Manejo Clínico [PFT21104|BS|N|FTO0401N];Presencial (TUTOR)
 tut1065;Phillipe Augusto Ferreira Rodrigues;2024-1|PBE23103|CG|N|BEF0301N;Biodinâmica do Movimento [PBE23103|CG|N|BEF0301N];Presencial (TUTOR)
 tut1071;Wallace da Silva Carvalho;2024-1|PCI23101|BS|N|ENG0105N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0105N];Presencial (TUTOR)
