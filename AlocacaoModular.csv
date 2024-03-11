@@ -7,7 +7,8 @@ civ1059;Marcus Bergman;2024-1|PCI20206|BS|N|CIV0601N;Geotecnia [PCI20206|BS|N|CI
 civ1148;Marilyn Tamara;2024-1|PCI20206|BS|N|CIV0601N;Geotecnia [PCI20206|BS|N|CIV0601N];Presencial
 estfto16;ESTFTO16 Estfto16;2024-1|PFT21112|BS|M|FTO1212M;Estágio Supervisionado do recém-nascido e criança [PFT21112|BS|M|FTO1212M];Presencial
 estpsi17;ESTPSI17 ESTPSI17;2024-1|PPS211.113|CG|M|PSI1303M;Estágio Profissional I Orientação de Estágio [PPS211.113|CG|M|PSI1303M];Presencial
-"psi0079;Ana Pessoa;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial		 [PPS23104|BS|N|PSI0401N];Presencial"
+psi0079;Ana Pessoa;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|N|PSI0401N];Presencial
+psi0153;Katia Pinheiro;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|N|PSI0401N];Presencial
 jur1267;Taiara Giffoni Quinta dos Santos;2024-1|PDR23101|BS|M|JUR0102M;Determinantes socio-históricos do direito [PDR23101|BS|M|JUR0102M];Presencial
 soc0019;Robson Rodrigues de Paula;2024-1|PDR23101|BS|M|JUR0102M;Determinantes socio-históricos do direito [PDR23101|BS|M|JUR0102M];Presencial
 bio1074;Andre Luis Peixoto Canda;2024-1|PBM21104|CG|M|BME0402M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0402M];Presencial
@@ -20,6 +21,7 @@ estfar03;ESTFAR03 Estfar03;2024-1|PFA21111|BS|T|FAR1101T;Estágio de Educação 
 jur1254;Alfredo Rodrigues Junior;2024-1|PDR23103|BS|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0301N];Presencial
 jur1272;Tamara da Cruz;2024-1|PDR23103|BS|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0301N];Presencial
 jur1276;Thiago Minage;2024-1|PDR23103|BS|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0301N];Presencial
+estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21109|CG|N|BME0901N;Estágio Supervisionado I [PBM21109|CG|N|BME0901N];Presencial
 bio1069;Louise Calil Deterling;2024-1|PFT23103|BS|N|SAU0041N;Saúde e Homeostase [PFT23103|BS|N|SAU0041N];Presencial
 bmd1004;Roney Rodrigues Guimarães;2024-1|PFT23103|BS|N|SAU0041N;Saúde e Homeostase [PFT23103|BS|N|SAU0041N];Presencial
 far1008;Glauce Maria Nunes de Arajo;2024-1|PFT23103|BS|N|SAU0041N;Saúde e Homeostase [PFT23103|BS|N|SAU0041N];Presencial
@@ -65,7 +67,7 @@ fto1139;Camilla Polonini Martins;2024-1|PFT21105|BS|N|FTO0501N;Ciência do Movim
 adm1479;Vanise Rios Goncalves;2024-1|PAD23103|BS|N|CSA0012N;Finanças Empresariais e Cenários Econômicos [PAD23103|BS|N|CSA0012N];Presencial
 cob1052;Anibal Ribeiro de Figueiredo;2024-1|PAD23103|BS|N|CSA0012N;Finanças Empresariais e Cenários Econômicos [PAD23103|BS|N|CSA0012N];Presencial
 eco1011;Augusto César Dias;2024-1|PAD23103|BS|N|CSA0012N;Finanças Empresariais e Cenários Econômicos [PAD23103|BS|N|CSA0012N];Presencial
-estpsi2;Edna Monteiro;2024-1|PPS211.113|CG|N|PSI1301N;Estágio Profissional I Orientação de Estágio [PPS211.113|CG|N|PSI1301N];Presencial
+estpsi2;ESTPSI2 ESTPSI2;2024-1|PPS211.113|CG|N|PSI1301N;Estágio Profissional I Orientação de Estágio [PPS211.113|CG|N|PSI1301N];Presencial
 vet1002;Sara Suzano;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BS|N|BMV0101N];Presencial
 vet1006;Claudia Morais Sequeira;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BS|N|BMV0101N];Presencial
 vet1012;Raquel do Nascimento de Souza;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BS|N|BMV0101N];Presencial
@@ -73,6 +75,7 @@ vet1014;MARCELO Gomes;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúde e a Form
 psi0081;Agata Cristinier Castanheda da Silva;2024-1|PPS23101|BS|N|PSI0101N;Ciência, Saúde e Pesquisa [PPS23101|BS|N|PSI0101N];Presencial
 psi0139;Flavia Noro de Lima ;2024-1|PPS23101|BS|N|PSI0101N;Ciência, Saúde e Pesquisa [PPS23101|BS|N|PSI0101N];Presencial
 estfto13;ESTFTO13 ESTFTO13;2024-1|PFT21111|BS|N|FTO1102N;Estágio em Atenção Básica [PFT21111|BS|N|FTO1102N];Presencial
+estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21110|CG|N|BME1001N;Estágio Supervisionado II Orientação de Estágio [PBM21110|CG|N|BME1001N];Presencial
 estpsi8;Michele Nascimento Santos;2024-1|PPS211.112|BS|N|PSI1202N;Estágio Básico II Triagem [PPS211.112|BS|N|PSI1202N];Presencial
 eng1002;Gustavo Eduardo Oviedo Celis ;2024-1|PCI23101|BS|N|ENG0103N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0103N];Presencial
 mat1063;Rafael Ferreira da Costa Leite;2024-1|PCI23101|BS|N|ENG0103N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0103N];Presencial
@@ -103,8 +106,8 @@ estedf;ESTEDF ESTEDF;2024-1|PBE20.112|BS|T|BEF1201T;Estágio Supervisionado de B
 bmd1006;Phelipe Oliveira de Macedo;2024-1|PBM21104|CG|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0401M];Presencial
 bmd1012;FABIO Santos;2024-1|PBM21104|CG|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0401M];Presencial
 estfto3;ESTFTO3 ESTFTO3;2024-1|PFT21111|BS|T|FTO1103T;Estágio em Atenção Básica [PFT21111|BS|T|FTO1103T];Presencial
-"psi0020;Rachel Shimba Carneiro;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0302M];Presencial"
-"psi0079;Ana Pessoa;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0302M];Presencial"
+psi0020;Rachel Shimba Carneiro;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0302M];Presencial
+psi0079;Ana Pessoa;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0302M];Presencial
 gas1014;Maria de Lourdes Agostinho de Andrade;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial
 gas1025;Jorge Alexandre de Figueiredo Fernandes;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial
 gas1027;Filipe Augusto Ramos Rodrigues ;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial
@@ -139,6 +142,7 @@ est1019;Dione da Silva Bento;2024-1|PEC19205|CG|M|EST0501M;Gestão de Empreendim
 est1028;Rodrigo Silva Gomes;2024-1|PEC19205|CG|M|EST0501M;Gestão de Empreendimentos de Beleza [PEC19205|CG|M|EST0501M];Presencial
 est1029;MICHEL DA SILVA;2024-1|PEC19205|CG|M|EST0501M;Gestão de Empreendimentos de Beleza [PEC19205|CG|M|EST0501M];Presencial
 psi0142;Jaqueline da Hora;2024-1|PPS211.106|BS|N|PSI0601N;Processos Clínicos [PPS211.106|BS|N|PSI0601N];Presencial
+psi0152;Juliana Corcos;2024-1|PPS211.106|BS|N|PSI0601N;Processos Clínicos [PPS211.106|BS|N|PSI0601N];Presencial
 estfar04;ESTFAR04 Estfar04;2024-1|PFA21113|CG|T|FAR1302T;Estágio em Educação Farmacêutica [PFA21113|CG|T|FAR1302T];Presencial
 nut1031;Ana Claudia Alves Marques Mariano;2024-1|PNU23103|BS|N|NUT0301N;Nutrição e Equilíbrio da Vida [PNU23103|BS|N|NUT0301N];Presencial
 nut1049;Fernanda Ornellas Pinto da Cruz;2024-1|PNU23103|BS|N|NUT0301N;Nutrição e Equilíbrio da Vida [PNU23103|BS|N|NUT0301N];Presencial
@@ -186,7 +190,7 @@ civ1084;Everton Rangel Bispo;2024-1|PCI23102|CG|N|ENG0201N;Planejamento de Model
 mat1060;Marlon Corsi;2024-1|PCI23102|CG|N|ENG0201N;Planejamento de Modelos [PCI23102|CG|N|ENG0201N];Presencial
 pet1013;Rodrigo Otavio Lopes de Souza;2024-1|PCI23102|CG|N|ENG0201N;Planejamento de Modelos [PCI23102|CG|N|ENG0201N];Presencial
 estfto10;ESTFTO10 ESTFTO10;2024-1|PFT21111|BS|T|FTO1102T;Estágio em Atenção Básica [PFT21111|BS|T|FTO1102T];Presencial
-estpsi2;Edna Monteiro;2024-1|PPS211.113|CG|N|PSI1302N;Estágio Profissional I Orientação de Estágio [PPS211.113|CG|N|PSI1302N];Presencial
+estpsi2;ESTPSI2 ESTPSI2;2024-1|PPS211.113|CG|N|PSI1302N;Estágio Profissional I Orientação de Estágio [PPS211.113|CG|N|PSI1302N];Presencial
 arq1012;Mario de Lima;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Sociedade [PAR23103|BG|M|ARQ0301M];Presencial
 arq1025;Adriana Colafranceschi Durante;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Sociedade [PAR23103|BG|M|ARQ0301M];Presencial
 estfar02;Estágio Farmácia;2024-1|PFA21112|BS|T|FAR1201T;Estágio de Educação em Saúde II Orientação de Estágio [PFA21112|BS|T|FAR1201T];Presencial
@@ -199,8 +203,8 @@ arq1045;Fernando Antonio Lima Damasceno;2024-1|PAR23101|BS|N|ARQ0102N;Desenho e 
 arq1055;Marcelo Vianna e Silva;2024-1|PAR23101|BS|N|ARQ0102N;Desenho e Expressão [PAR23101|BS|N|ARQ0102N];Presencial
 jur1218;João Ricardo de Oliveira;2024-1|PDR21107|CG|M|JUR0701M;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|CG|M|JUR0701M];Presencial
 jur1256;Eladio Santamaria Gomez ;2024-1|PDR21107|CG|M|JUR0701M;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|CG|M|JUR0701M];Presencial
-"psi0020;Rachel Shimba Carneiro;2024-1|PPS23104|BS|M|PSI0401M;Políticas de Saúde e Atenção Psicossocial		 [PPS23104|BS|M|PSI0401M];Presencial"
-"psi0140;Rebecca Alcici;2024-1|PPS23104|BS|M|PSI0401M;Políticas de Saúde e Atenção Psicossocial		 [PPS23104|BS|M|PSI0401M];Presencial"
+psi0020;Rachel Shimba Carneiro;2024-1|PPS23104|BS|M|PSI0401M;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|M|PSI0401M];Presencial
+psi0140;Rebecca Alcici;2024-1|PPS23104|BS|M|PSI0401M;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|M|PSI0401M];Presencial
 mat1063;Rafael Ferreira da Costa Leite;2024-1|PCI23103|BS|N|ENG0304N;Soluções Criativas [PCI23103|BS|N|ENG0304N];Presencial
 mec1012;Fabio Cale da Silva;2024-1|PCI23103|BS|N|ENG0304N;Soluções Criativas [PCI23103|BS|N|ENG0304N];Presencial
 pro1130;George Gilberto Gomes Junior;2024-1|PCI23103|BS|N|ENG0304N;Soluções Criativas [PCI23103|BS|N|ENG0304N];Presencial
@@ -225,15 +229,16 @@ inf1084;Carlos Henrique;2024-1|PAS23102|CG|M|ADS0201M;Desenvolvimento de Softwar
 inf1085;Rosana Patrícia;2024-1|PAS23102|CG|M|ADS0201M;Desenvolvimento de Software para Internet (Back-end) [PAS23102|CG|M|ADS0201M];Presencial
 estpsi3;ESTPSI3 Estpsi3;2024-1|PPS23113|CG|T|PSI1308T;Estágio Profissional I [PPS23113|CG|T|PSI1308T];Presencial
 psi0093;Nihil Scarpine;2024-1|PPS23101|BS|M|PSI0102M;Ciência, Saúde e Pesquisa [PPS23101|BS|M|PSI0102M];Presencial
+psi0153;Katia Pinheiro;2024-1|PPS23101|BS|M|PSI0102M;Ciência, Saúde e Pesquisa [PPS23101|BS|M|PSI0102M];Presencial
 arq1012;Mario de Lima;2024-1|PAR20208|BG|N|ARQ0801N;Cidade e Planejamento [PAR20208|BG|N|ARQ0801N];Presencial
 arq1063;Fábio Bruno de Oliveira;2024-1|PAR20208|BG|N|ARQ0801N;Cidade e Planejamento [PAR20208|BG|N|ARQ0801N];Presencial
 arq1064;Rodrigo Soares Sgarbi ;2024-1|PAR20208|BG|N|ARQ0801N;Cidade e Planejamento [PAR20208|BG|N|ARQ0801N];Presencial
 ele1021;Marcio Araujo de Souza;2024-1|PCI23104|CG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|CG|N|ENG0401N];Presencial
 eng1005;Lucas Ramon;2024-1|PCI23104|CG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|CG|N|ENG0401N];Presencial
 mat1060;Marlon Corsi;2024-1|PCI23104|CG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|CG|N|ENG0401N];Presencial
-"psi0102;Danielle de Souza;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições		 [PPS211.105|BS|M|PSI0502M];Presencial"
-"psi0116;Stallone Abrantes;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições		 [PPS211.105|BS|M|PSI0502M];Presencial"
-"psi0121;Ellen Mariane;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições		 [PPS211.105|BS|M|PSI0502M];Presencial"
+psi0102;Danielle de Souza;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições [PPS211.105|BS|M|PSI0502M];Presencial
+psi0116;Stallone Abrantes;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições [PPS211.105|BS|M|PSI0502M];Presencial
+psi0121;Ellen Mariane;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições [PPS211.105|BS|M|PSI0502M];Presencial
 pub1030;NATALIA Rocha;2024-1|PDG23101|BG|M|SDG0101M;Identidade Visual [PDG23101|BG|M|SDG0101M];Presencial
 pub1021;Nilmar Figueiredo de Souza;2024-1|PDG23101|BG|M|SDG0101M;Identidade Visual [PDG23101|BG|M|SDG0101M];Presencial
 sdg1001;Adalberto Rocha;2024-1|PDG23101|BG|M|SDG0101M;Identidade Visual [PDG23101|BG|M|SDG0101M];Presencial
@@ -254,8 +259,8 @@ inf1004;Marco Antonio Xaves Valentim;2024-1|PAS23101|BS|M|ADS0101M;Desenvolvimen
 inf1078;Andre Ferreira Zeferino;2024-1|PAS23101|BS|M|ADS0101M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BS|M|ADS0101M];Presencial
 jur1235;Bruno Lucio Moreira Manzolillo;2024-1|PDR21104|BS|N|JUR0402N;Direitos Fundamentais, org política do Brasil e sua relação com outros países [PDR21104|BS|N|JUR0402N];Presencial
 jur1242;Adinan Rodrigues da Silveira;2024-1|PDR21104|BS|N|JUR0402N;Direitos Fundamentais, org política do Brasil e sua relação com outros países [PDR21104|BS|N|JUR0402N];Presencial
-"inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0304N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0304N];Presencial"
-"inf1039;Marcelo Loutfi;2024-1|PAS23103|BS|N|ADS0304N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0304N];Presencial"
+inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0304N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0304N];Presencial
+inf1039;Marcelo Loutfi;2024-1|PAS23103|BS|N|ADS0304N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0304N];Presencial
 jor1024;LUCIANA Almeida;2024-1|PJO23102|BS|M|JOR0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|JOR0202M];Presencial
 let1048;Fábia dos Santos Marucci ;2024-1|PJO23102|BS|M|JOR0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|JOR0202M];Presencial
 enf1101;Wilma Helena Carvalho Rodrigues;2024-1|PFT23101|BS|N|SAU0027N;Humanização e Saúde [PFT23101|BS|N|SAU0027N];Presencial
@@ -304,6 +309,7 @@ mat1059;Antonio Carnevale Neto;2024-1|PCI23101|CG|N|ENG0102N;Inovação e Proces
 arq1025;Adriana Colafranceschi Durante;2024-1|PAR23101|BG|N|ARQ0102N;Desenho e Expressão [PAR23101|BG|N|ARQ0102N];Presencial
 arq1032;Max Santos Barbosa;2024-1|PAR23101|BG|N|ARQ0102N;Desenho e Expressão [PAR23101|BG|N|ARQ0102N];Presencial
 arq1055;Marcelo Vianna e Silva;2024-1|PAR23101|BG|N|ARQ0102N;Desenho e Expressão [PAR23101|BG|N|ARQ0102N];Presencial
+estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21109|CG|M|BME0901M;Estágio Supervisionado I Orientação de Estágio [PBM21109|CG|M|BME0901M];Presencial
 estpsi15;Professor estpsi15;2024-1|PPS211.111|BS|N|PSI1101N;Estágio Básico I em Abordagens Psicológicas Orientação de Estágio [PPS211.111|BS|N|PSI1101N];Presencial
 adm1486;Pedro Jorge Guimarães de Abreu;2024-1|PAD21107|CG|N|ADD0701N;Tecnologias e Sistemas de Informação [PAD21107|CG|N|ADD0701N];Presencial
 geo1023;Paulo Ricardo Oliveira da Costa Salgueiro;2024-1|PAD21107|CG|N|ADD0701N;Tecnologias e Sistemas de Informação [PAD21107|CG|N|ADD0701N];Presencial
@@ -365,9 +371,9 @@ estpsi15;Professor estpsi15;2024-1|PPS211.111|CG|M|PSI1102M;Estágio Básico I e
 civ1147;Catia Azevedo dos Santos ;2024-1|PCI20206|CG|N|CIV0602N;Geotecnia [PCI20206|CG|N|CIV0602N];Presencial
 civ1150;Marcela Scalco;2024-1|PCI20206|CG|N|CIV0602N;Geotecnia [PCI20206|CG|N|CIV0602N];Presencial
 estpsi12;Professor estpsi12;2024-1|PPS211.111|CG|T|PSI1101T;Estágio Básico I em Abordagens Psicológicas [PPS211.111|CG|T|PSI1101T];Presencial
-"inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0302N];Presencial"
-"inf1072;Oswaldo Borges Peres;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0302N];Presencial"
-"inf1078;Andre Ferreira Zeferino;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0302N];Presencial"
+inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0302N];Presencial
+inf1072;Oswaldo Borges Peres;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0302N];Presencial
+inf1078;Andre Ferreira Zeferino;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0302N];Presencial
 estpsi12;Professor estpsi12;2024-1|PPS211.111|CG|N|PSI1102N;Estágio Básico I em Abordagens Psicológicas [PPS211.111|CG|N|PSI1102N];Presencial
 inf1017;Charles Santiago Bastos;2024-1|PAS23101|BS|M|CET0008M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BS|M|CET0008M];Presencial
 inf1077;Vinicius da Silva;2024-1|PAS23101|BS|M|CET0008M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BS|M|CET0008M];Presencial
@@ -402,7 +408,7 @@ bio1093;Ana Cláudia Pimentel de Oliveira;2024-1|PBI21205|BS|N|BBI0501N;Diversid
 bio1095;Caroline Martins Brandao ;2024-1|PBI21205|BS|N|BBI0501N;Diversidade Biológica, Ecologia e Meio Ambiente [PBI21205|BS|N|BBI0501N];Presencial
 jur1169;Felipe Cavaliere Tavares;2024-1|PDR21104|CG|M|JUR0401M;Direitos Fundamentais, org política do Brasil e sua relação com outros países [PDR21104|CG|M|JUR0401M];Presencial
 jur1242;Adinan Rodrigues da Silveira;2024-1|PDR21104|CG|M|JUR0401M;Direitos Fundamentais, org política do Brasil e sua relação com outros países [PDR21104|CG|M|JUR0401M];Presencial
-estpsi2;Edna Monteiro;2024-1|PPS211.113|CG|T|PSI1301T;Estágio Profissional I [PPS211.113|CG|T|PSI1301T];Presencial
+estpsi2;ESTPSI2 ESTPSI2;2024-1|PPS211.113|CG|T|PSI1301T;Estágio Profissional I [PPS211.113|CG|T|PSI1301T];Presencial
 estpsi12;Professor estpsi12;2024-1|PPS211.113|CG|N|PSI1304N;Estágio Profissional I [PPS211.113|CG|N|PSI1304N];Presencial
 eng1004;Ronaldo Gomes de Castro Medeiros;2024-1|PME20207|BS|N|MEC0701N;Tratamento de Materiais [PME20207|BS|N|MEC0701N];Presencial
 mec1007;Jurandyr de Souza Cunha Filho ;2024-1|PME20207|BS|N|MEC0701N;Tratamento de Materiais [PME20207|BS|N|MEC0701N];Presencial
@@ -426,8 +432,8 @@ edf1017;LUCIANA ABDALAD;2024-1|PLE20.105|BS|N|EDF0501N;Aprendendo a Ensinar [PLE
 edf1112;Marcela da Silva Vieira Dantas ;2024-1|PLE20.105|BS|N|EDF0501N;Aprendendo a Ensinar [PLE20.105|BS|N|EDF0501N];Presencial
 pub1030;NATALIA Rocha;2024-1|PDG23101|BS|M|SDG0102M;Identidade Visual [PDG23101|BS|M|SDG0102M];Presencial
 mkt1012;Gércton Bernardo Coitinho;2024-1|PDG23101|BS|M|SDG0102M;Identidade Visual [PDG23101|BS|M|SDG0102M];Presencial
-"psi0090;Johnny Clayton;2024-1|PPS23103|BS|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0301N];Presencial"
-"psi0140;Rebecca Alcici;2024-1|PPS23103|BS|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0301N];Presencial"
+psi0090;Johnny Clayton;2024-1|PPS23103|BS|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|BS|N|PSI0301N];Presencial
+psi0140;Rebecca Alcici;2024-1|PPS23103|BS|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|BS|N|PSI0301N];Presencial
 adm1031;Carlos Alexandre Duarte Correa;2024-1|PAD23104|BG|N|CSA0006N;Planejamento Estratégico e Marketing Experience [PAD23104|BG|N|CSA0006N];Presencial
 cob1061;Anderson Daniel Vieira;2024-1|PAD23104|BG|N|CSA0006N;Planejamento Estratégico e Marketing Experience [PAD23104|BG|N|CSA0006N];Presencial
 jur1071;Antonio Carlos Bezerra de Araujo;2024-1|PDR21106|BS|N|JUR0601N;Tutela Penal e Efetividade Processual das liberdades [PDR21106|BS|N|JUR0601N];Presencial
@@ -469,6 +475,7 @@ pro1130;George Gilberto Gomes Junior;2024-1|PCI23103|BS|N|ENG0302N;Soluções Cr
 fto1129;Alexsandro da Silva Oliveira;2024-1|PFT21105|CG|M|FTO0501M;Ciência do Movimento [PFT21105|CG|M|FTO0501M];Presencial
 fto1139;Camilla Polonini Martins;2024-1|PFT21105|CG|M|FTO0501M;Ciência do Movimento [PFT21105|CG|M|FTO0501M];Presencial
 fto1161;Alexandre Gonçalves de Meirelles;2024-1|PFT21105|CG|M|FTO0501M;Ciência do Movimento [PFT21105|CG|M|FTO0501M];Presencial
+estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21109|CG|N|BME0903N;Estágio Supervisionado I Orientação de Estágio [PBM21109|CG|N|BME0903N];Presencial
 odo1006;Fernanda de Souza;2024-1|POD22104|BS|I|ODO0401I;Atenção básica à Saúde Bucal e Práticas Odontológicas [POD22104|BS|I|ODO0401I];Presencial
 odo1010;Caroline Montez Lima dos Santos ;2024-1|POD22104|BS|I|ODO0401I;Atenção básica à Saúde Bucal e Práticas Odontológicas [POD22104|BS|I|ODO0401I];Presencial
 odo1011;Thamires Alves;2024-1|POD22104|BS|I|ODO0401I;Atenção básica à Saúde Bucal e Práticas Odontológicas [POD22104|BS|I|ODO0401I];Presencial
@@ -598,8 +605,8 @@ inf1075;Sergio Franco;2024-1|PAS23102|BS|M|ADS0201M;Desenvolvimento de Software 
 inf1081;Rafael Monteiro;2024-1|PAS23102|BS|M|ADS0201M;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BS|M|ADS0201M];Presencial
 psi0102;Danielle de Souza;2024-1|PPS23102|BS|M|PSI0201M;Desenvolvimento Humano [PPS23102|BS|M|PSI0201M];Presencial
 psi0121;Ellen Mariane;2024-1|PPS23102|BS|M|PSI0201M;Desenvolvimento Humano [PPS23102|BS|M|PSI0201M];Presencial
-"psi0090;Johnny Clayton;2024-1|PPS23103|CG|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0301M];Presencial"
-"psi0118;Mayra da Cruz Honorato;2024-1|PPS23103|CG|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0301M];Presencial"
+psi0090;Johnny Clayton;2024-1|PPS23103|CG|M|PSI0301M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0301M];Presencial
+psi0118;Mayra da Cruz Honorato;2024-1|PPS23103|CG|M|PSI0301M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0301M];Presencial
 jur1218;João Ricardo de Oliveira;2024-1|PDR21107|BS|N|JUR0701N;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|BS|N|JUR0701N];Presencial
 jur1256;Eladio Santamaria Gomez ;2024-1|PDR21107|BS|N|JUR0701N;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|BS|N|JUR0701N];Presencial
 bmd1006;Phelipe Oliveira de Macedo;2024-1|PBM21104|BS|N|BME0402N;Análise Ambiental e de Alimentos [PBM21104|BS|N|BME0402N];Presencial
@@ -641,8 +648,8 @@ inf1076;Bruno Cezario;2024-1|PAS23102|BS|N|ADS0202N;Desenvolvimento de Software 
 estfto3;ESTFTO3 ESTFTO3;2024-1|PFT21111|BS|M|FTO1103M;Estágio em Atenção Básica Orientação de Estágio [PFT21111|BS|M|FTO1103M];Presencial
 psi0121;Ellen Mariane;2024-1|PPS211.105|BS|M|PSI0501M;Grupos e instituições [PPS211.105|BS|M|PSI0501M];Presencial
 psi0129;Beatriz de Alcantara Gonçalves;2024-1|PPS211.105|BS|M|PSI0501M;Grupos e instituições [PPS211.105|BS|M|PSI0501M];Presencial
-"psi0132;Patrick Botelho;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0302N];Presencial"
-"psi0140;Rebecca Alcici;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0302N];Presencial"
+psi0132;Patrick Botelho;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos [PPS23103|BS|N|PSI0302N];Presencial
+psi0140;Rebecca Alcici;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos [PPS23103|BS|N|PSI0302N];Presencial
 estpsi12;Professor estpsi12;2024-1|PPS23113|CG|M|PSI1305M;Estágio Profissional I [PPS23113|CG|M|PSI1305M];Presencial
 enf1060;Cleide Gonalo Rufino;2024-1|PFT23101|CG|M|SAU0020M;Humanização e Saúde [PFT23101|CG|M|SAU0020M];Presencial
 enf1116;Fabiana Silva Marins Santa Rosa;2024-1|PFT23101|CG|M|SAU0020M;Humanização e Saúde [PFT23101|CG|M|SAU0020M];Presencial
@@ -658,10 +665,11 @@ odo1012;Fabiana Franca;2024-1|POD22110|BS|T|ODO1001T;Estágio Supervisionado I -
 adm1449;Enilton Carlos de Menezes;2024-1|PAD23103|CG|N|CSA0006N;Finanças Empresariais e Cenários Econômicos [PAD23103|CG|N|CSA0006N];Presencial
 cob1052;Anibal Ribeiro de Figueiredo;2024-1|PAD23103|CG|N|CSA0006N;Finanças Empresariais e Cenários Econômicos [PAD23103|CG|N|CSA0006N];Presencial
 eco1023;Alexandre Lima;2024-1|PAD23103|CG|N|CSA0006N;Finanças Empresariais e Cenários Econômicos [PAD23103|CG|N|CSA0006N];Presencial
-"inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0303N];Presencial"
-"inf1078;Andre Ferreira Zeferino;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0303N];Presencial"
-"psi0132;Patrick Botelho;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0301N];Presencial"
-"psi0137;Isabela Henze;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0301N];Presencial"
+inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0303N];Presencial
+inf1078;Andre Ferreira Zeferino;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0303N];Presencial
+psi0132;Patrick Botelho;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0301N];Presencial
+psi0137;Isabela Henze;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0301N];Presencial
+psi0154;Juraci Silva;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0301N];Presencial
 enf1116;Fabiana Silva Marins Santa Rosa;2024-1|PEM21106|CG|N|ENF0601N;Enfermagem e Saúde Coletiva [PEM21106|CG|N|ENF0601N];Presencial
 enf1117;Alessandra Felix André Braga;2024-1|PEM21106|CG|N|ENF0601N;Enfermagem e Saúde Coletiva [PEM21106|CG|N|ENF0601N];Presencial
 enf1123;Ana Tereza Souza;2024-1|PEM21106|CG|N|ENF0601N;Enfermagem e Saúde Coletiva [PEM21106|CG|N|ENF0601N];Presencial
@@ -725,6 +733,7 @@ bio1097;Guilherme Curty Lechuga;2024-1|PBM21107|BS|M|BME0701M;Biotecnologia [PBM
 bmd1006;Phelipe Oliveira de Macedo;2024-1|PBM21107|BS|M|BME0701M;Biotecnologia [PBM21107|BS|M|BME0701M];Presencial
 estfto13;ESTFTO13 ESTFTO13;2024-1|PFT21111|BS|M|FTO1104M;Estágio em Atenção Básica Orientação de Estágio [PFT21111|BS|M|FTO1104M];Presencial
 psi0142;Jaqueline da Hora;2024-1|PPS211.106|BS|M|PSI0601M;Processos Clínicos [PPS211.106|BS|M|PSI0601M];Presencial
+psi0154;Juraci Silva;2024-1|PPS211.106|BS|M|PSI0601M;Processos Clínicos [PPS211.106|BS|M|PSI0601M];Presencial
 pub1004;Paulo Cesar da Silva Ramos;2024-1|PPU23104|BS|M|PUB0401M;Mídia e Comportamento [PPU23104|BS|M|PUB0401M];Presencial
 pub1008;Ediana Avelar;2024-1|PPU23104|BS|M|PUB0401M;Mídia e Comportamento [PPU23104|BS|M|PUB0401M];Presencial
 bio1095;Caroline Martins Brandao ;2024-1|PFT23103|BS|M|SAU0033M;Saúde e Homeostase [PFT23103|BS|M|SAU0033M];Presencial
@@ -744,12 +753,13 @@ jur1267;Taiara Giffoni Quinta dos Santos;2024-1|PDR21105|CG|M|JUR0501M;Instrumen
 jur1274;Ana Claudia Theodoro;2024-1|PDR21105|CG|M|JUR0501M;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|M|JUR0501M];Presencial
 psi0020;Rachel Shimba Carneiro;2024-1|PPS211.105|CG|M|PSI0501M;Grupos e instituições [PPS211.105|CG|M|PSI0501M];Presencial
 psi0123;Elis Regina de Castro Lopes;2024-1|PPS211.105|CG|M|PSI0501M;Grupos e instituições [PPS211.105|CG|M|PSI0501M];Presencial
-"inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0301N];Presencial"
-"inf1039;Marcelo Loutfi;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0301N];Presencial"
-"inf1078;Andre Ferreira Zeferino;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0301N];Presencial"
+inf1017;Charles Santiago Bastos;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0301N];Presencial
+inf1039;Marcelo Loutfi;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0301N];Presencial
+inf1078;Andre Ferreira Zeferino;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0301N];Presencial
 vet1005;Cinthya Domingues Amaral;2024-1|PMV22204|BS|N|BMV0401N;Sanidade Animal e Práticas Veterinárias [PMV22204|BS|N|BMV0401N];Presencial
 vet1015;IRACEMA Araujo;2024-1|PMV22204|BS|N|BMV0401N;Sanidade Animal e Práticas Veterinárias [PMV22204|BS|N|BMV0401N];Presencial
 vet1017;Jane Castro;2024-1|PMV22204|BS|N|BMV0401N;Sanidade Animal e Práticas Veterinárias [PMV22204|BS|N|BMV0401N];Presencial
+estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21109|CG|N|BME0902N;Estágio Supervisionado I Orientação de Estágio [PBM21109|CG|N|BME0902N];Presencial
 nut1012;Susana Ortiz;2024-1|PNU21107|BS|N|NUT0701N;Nutrição da Gestação ao Envelhecimento [PNU21107|BS|N|NUT0701N];Presencial
 nut1041;Raquel Espirito Santo;2024-1|PNU21107|BS|N|NUT0701N;Nutrição da Gestação ao Envelhecimento [PNU21107|BS|N|NUT0701N];Presencial
 bio1097;Guilherme Curty Lechuga;2024-1|PEM21104|BS|N|ENF0401N;Mecanismos de Defesa da Vida [PEM21104|BS|N|ENF0401N];Presencial
@@ -809,8 +819,8 @@ estpsi18;ESTPSI18 ESTPSI18;2024-1|PPS211.113|BS|T|PSI1302T;Estágio Profissional
 nut1016;Fabiane Toste Cardoso;2024-1|PNU21106|BS|N|NUT0601N;Intervenção Nutricional [PNU21106|BS|N|NUT0601N];Presencial
 nut1031;Ana Claudia Alves Marques Mariano;2024-1|PNU21106|BS|N|NUT0601N;Intervenção Nutricional [PNU21106|BS|N|NUT0601N];Presencial
 nut1041;Raquel Espirito Santo;2024-1|PNU21106|BS|N|NUT0601N;Intervenção Nutricional [PNU21106|BS|N|NUT0601N];Presencial
-"psi0118;Mayra da Cruz Honorato;2024-1|PPS23103|CG|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0302N];Presencial"
-"psi0123;Elis Regina de Castro Lopes;2024-1|PPS23103|CG|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0302N];Presencial"
+psi0118;Mayra da Cruz Honorato;2024-1|PPS23103|CG|N|PSI0302N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0302N];Presencial
+psi0123;Elis Regina de Castro Lopes;2024-1|PPS23103|CG|N|PSI0302N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0302N];Presencial
 estfto15;ESTFTO15 Estfto15;2024-1|PFT21112|BS|M|FTO1206M;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|M|FTO1206M];Presencial
 adm1500;André Luiz Marques Gomes;2024-1|PRH23102|BS|N|GRH0201N;Recrutamento e Seleção [PRH23102|BS|N|GRH0201N];Presencial
 adm1503;Jorge Vieira da Rocha ;2024-1|PRH23102|BS|N|GRH0201N;Recrutamento e Seleção [PRH23102|BS|N|GRH0201N];Presencial
@@ -849,8 +859,8 @@ fto1082;Claudia Maria Pereira da Silva Monteiro;2024-1|PFT23101|BS|M|SAU0030M;Hu
 fto1084;Cristina Marcia Dias ;2024-1|PFT23101|BS|M|SAU0030M;Humanização e Saúde [PFT23101|BS|M|SAU0030M];Presencial
 fto1099;Rodrigo Pena Soares Silva;2024-1|PFT23101|BS|M|SAU0030M;Humanização e Saúde [PFT23101|BS|M|SAU0030M];Presencial
 fto1159;Luiggi Lustosa;2024-1|PFT23101|BS|M|SAU0030M;Humanização e Saúde [PFT23101|BS|M|SAU0030M];Presencial
-"inf1072;Oswaldo Borges Peres;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BG|M|ADS0301M];Presencial"
-"inf1084;Carlos Henrique;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BG|M|ADS0301M];Presencial"
+inf1072;Oswaldo Borges Peres;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile [PAS23103|BG|M|ADS0301M];Presencial
+inf1084;Carlos Henrique;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile [PAS23103|BG|M|ADS0301M];Presencial
 pub1004;Paulo Cesar da Silva Ramos;2024-1|PJO23102|BS|M|PUB0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0202M];Presencial
 pub1022;Carla Mota dos Santos da Silva;2024-1|PJO23102|BS|M|PUB0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0202M];Presencial
 inf1004;Marco Antonio Xaves Valentim;2024-1|PAS23101|BG|N|ADS0102N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|ADS0102N];Presencial
@@ -935,6 +945,7 @@ far1063;Uiaran de Oliveira Magalhães;2024-1|PFA21106|BS|N|FAR0601N;Planejamento
 far1097;Ramon Pinheiro Aguiar;2024-1|PFA21106|BS|N|FAR0601N;Planejamento e Desenvolvimento de Fármacos [PFA21106|BS|N|FAR0601N];Presencial
 far1100;Ian Gardel Carvalho Barcellos Silva;2024-1|PFA21106|BS|N|FAR0601N;Planejamento e Desenvolvimento de Fármacos [PFA21106|BS|N|FAR0601N];Presencial
 psi0107;Kátia Maria Ribeiro de Souza;2024-1|PPS211.107|BS|N|PSI0702N;Processos psicopatológicos [PPS211.107|BS|N|PSI0702N];Presencial
+psi0152;Juliana Corcos;2024-1|PPS211.107|BS|N|PSI0702N;Processos psicopatológicos [PPS211.107|BS|N|PSI0702N];Presencial
 pub1009;Claudia Val dos Santos;2024-1|PMK23104A|BS|N|PUB0701N;Gestão e Ações de Marca [PMK23104A|BS|N|PUB0701N];Presencial
 sdg1001;Adalberto Rocha;2024-1|PMK23104A|BS|N|PUB0701N;Gestão e Ações de Marca [PMK23104A|BS|N|PUB0701N];Presencial
 jur1218;João Ricardo de Oliveira;2024-1|PDR21107|BS|M|JUR0701M;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|BS|M|JUR0701M];Presencial
@@ -1024,6 +1035,7 @@ edf1113;Michelle Cristina Lôbo Coutinho ;2024-1|PFT21106|BS|N|FTO0601N;Gestão
 fto1153;Debora Cristina Lima da Silva;2024-1|PFT21106|BS|N|FTO0601N;Gestão e Planejamento de Carreira [PFT21106|BS|N|FTO0601N];Presencial
 psi0093;Nihil Scarpine;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
 psi0132;Patrick Botelho;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
+psi0154;Juraci Silva;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
 mat1051;Geraldo Motta;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
 mat1059;Antonio Carnevale Neto;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
 mec1012;Fabio Cale da Silva;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
@@ -1188,12 +1200,12 @@ vet1002;Sara Suzano;2024-1|PMV23102|BS|M|BMV0201M;Mecanismos Morfofisiológicos 
 vet1011;Simone Souto;2024-1|PMV23102|BS|M|BMV0201M;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BS|M|BMV0201M];Presencial
 vet1014;MARCELO Gomes;2024-1|PMV23102|BS|M|BMV0201M;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BS|M|BMV0201M];Presencial
 vet1016;PEDRO Mercez;2024-1|PMV23102|BS|M|BMV0201M;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BS|M|BMV0201M];Presencial
-estpsi2;Edna Monteiro;2024-1|PPS211.111|CG|N|PSI1103N;Estágio Básico I em Abordagens Psicológicas Orientação de Estágio [PPS211.111|CG|N|PSI1103N];Presencial
+estpsi2;ESTPSI2 ESTPSI2;2024-1|PPS211.111|CG|N|PSI1103N;Estágio Básico I em Abordagens Psicológicas Orientação de Estágio [PPS211.111|CG|N|PSI1103N];Presencial
 psi0065;Luis Felipe Fleury;2024-1|PPS211.106|CG|M|PSI0601M;Processos Clínicos [PPS211.106|CG|M|PSI0601M];Presencial
 psi0102;Danielle de Souza;2024-1|PPS211.106|CG|M|PSI0601M;Processos Clínicos [PPS211.106|CG|M|PSI0601M];Presencial
 estfar02;Estágio Farmácia;2024-1|PFA21114|BS|T|FAR1401T;Estágio de Medicamento/ Cosméticos/ Alimentos Orientação de Estágio [PFA21114|BS|T|FAR1401T];Presencial
-"psi0090;Johnny Clayton;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|BS|M|PSI0301M];Presencial"
-"psi0116;Stallone Abrantes;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|BS|M|PSI0301M];Presencial"
+psi0090;Johnny Clayton;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos [PPS23103|BS|M|PSI0301M];Presencial
+psi0116;Stallone Abrantes;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos [PPS23103|BS|M|PSI0301M];Presencial
 pub1022;Carla Mota dos Santos da Silva;2024-1|PPU23105|BS|N|CSA0031N;Gerenciamento de Comunicação e Marketing [PPU23105|BS|N|CSA0031N];Presencial
 pub1030;NATALIA Rocha;2024-1|PPU23105|BS|N|CSA0031N;Gerenciamento de Comunicação e Marketing [PPU23105|BS|N|CSA0031N];Presencial
 gas1025;Jorge Alexandre de Figueiredo Fernandes;2024-1|PGA23104|BS|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|M|GAS0401M];Presencial
@@ -1321,6 +1333,7 @@ nut1049;Fernanda Ornellas Pinto da Cruz;2024-1|PFT23102|BS|M|SAU0026M;Origem da 
 nut1048;Roberta Silveira;2024-1|PNU21105|BG|M|NUT0501M;Comportamento Alimentar e Humanização [PNU21105|BG|M|NUT0501M];Presencial
 nut1062;Giselle de Oliveira Sauer de Paiva Rio;2024-1|PNU21105|BG|M|NUT0501M;Comportamento Alimentar e Humanização [PNU21105|BG|M|NUT0501M];Presencial
 psi0081;Agata Cristinier Castanheda da Silva;2024-1|PPS23101|BS|M|PSI0101M;Ciência, Saúde e Pesquisa [PPS23101|BS|M|PSI0101M];Presencial
+psi0154;Juraci Silva;2024-1|PPS23101|BS|M|PSI0101M;Ciência, Saúde e Pesquisa [PPS23101|BS|M|PSI0101M];Presencial
 inf1004;Marco Antonio Xaves Valentim;2024-1|PAS23101|BG|N|CET0004N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|CET0004N];Presencial
 inf1077;Vinicius da Silva;2024-1|PAS23101|BG|N|CET0004N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|CET0004N];Presencial
 inf1083;Alexandre José;2024-1|PAS23101|BG|N|CET0004N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|CET0004N];Presencial
@@ -1371,7 +1384,7 @@ edu2004;Julia Tadeu Silva dos Santos e Paula;2024-1|PHI20207|BS|N|HUM0005N;Pedag
 edu2014;Rose Cristina da Silva Sobral;2024-1|PHI20207|BS|N|HUM0005N;Pedagogia em Ação [PHI20207|BS|N|HUM0005N];Presencial
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|CG|M|ENF0501M;Cuidados de enfermagem e seus fundamentos [PEM21105|CG|M|ENF0501M];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|BS|N|CIV0601N;Geotecnia [PCI20206|BS|N|CIV0601N];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial		 [PPS23104|BS|N|PSI0401N];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|N|PSI0401N];Presencial (TUTOR)
 tut1043;Raphael Fernandes Gomes;2024-1|PDR23101|BS|M|JUR0102M;Determinantes socio-históricos do direito [PDR23101|BS|M|JUR0102M];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|CG|M|BME0402M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0402M];Presencial (TUTOR)
 tut1114;Mirelle de Andrade;2024-1|PAR20207|BS|M|ARQ0701M;Cidade e Tecnologia [PAR20207|BS|M|ARQ0701M];Presencial (TUTOR)
@@ -1403,7 +1416,7 @@ tut1096;Leonardo Rodrigues Pereira;2024-1|PAR23101|BG|N|ARQ0101N;Desenho e Expre
 tut1061;Brayan Lima Cordeiro;2024-1|PMK23104B|BS|N|CSA0027N;Gestão em Marketing II [PMK23104B|BS|N|CSA0027N];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BS|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|BS|N|ENG0401N];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|CG|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0401M];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0302M];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0302M];Presencial (TUTOR)
 tut1056;João Gabriel Miranda;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|BG|N|ENG0401N];Presencial (TUTOR)
 tut1078;Karolynne Gorito de Oliveira;2024-1|PDR21105|BS|M|JUR0501M;Instrumentalização do processo na solução dos conflitos privados [PDR21105|BS|M|JUR0501M];Presencial (TUTOR)
@@ -1429,7 +1442,7 @@ tut1096;Leonardo Rodrigues Pereira;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Socie
 tut1054;Rafael Rizzaro de Almeida;2024-1|PDG23101|BS|M|SDG0101M;Identidade Visual [PDG23101|BS|M|SDG0101M];Presencial (TUTOR)
 tut1096;Leonardo Rodrigues Pereira;2024-1|PAR23101|BS|N|ARQ0102N;Desenho e Expressão [PAR23101|BS|N|ARQ0102N];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21107|CG|M|JUR0701M;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|CG|M|JUR0701M];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|M|PSI0401M;Políticas de Saúde e Atenção Psicossocial		 [PPS23104|BS|M|PSI0401M];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|M|PSI0401M;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|M|PSI0401M];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI23103|BS|N|ENG0304N;Soluções Criativas [PCI23103|BS|N|ENG0304N];Presencial (TUTOR)
 tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.107|CG|N|PSI0701N;Processos psicopatológicos [PPS211.107|CG|N|PSI0701N];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC19205|BS|M|EST0501M;Gestão de Empreendimentos de Beleza [PEC19205|BS|M|EST0501M];Presencial (TUTOR)
@@ -1441,14 +1454,14 @@ tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23102|CG|M|ADS0201M;Desenv
 tut1059;Marcelo Jacinto de Abreu;2024-1|PPS23101|BS|M|PSI0102M;Ciência, Saúde e Pesquisa [PPS23101|BS|M|PSI0102M];Presencial (TUTOR)
 tut1114;Mirelle de Andrade;2024-1|PAR20208|BG|N|ARQ0801N;Cidade e Planejamento [PAR20208|BG|N|ARQ0801N];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|CG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|CG|N|ENG0401N];Presencial (TUTOR)
-"tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições		 [PPS211.105|BS|M|PSI0502M];Presencial (TUTOR)"
+tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|BS|M|PSI0502M;Grupos e Instituições [PPS211.105|BS|M|PSI0502M];Presencial (TUTOR)
 tut1054;Rafael Rizzaro de Almeida;2024-1|PDG23101|BG|M|SDG0101M;Identidade Visual [PDG23101|BG|M|SDG0101M];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI23103|BS|N|ENG0301N;Soluções Criativas [PCI23103|BS|N|ENG0301N];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21106|CG|M|JUR0601M;Tutela Penal e Efetividade Processual das liberdades [PDR21106|CG|M|JUR0601M];Presencial (TUTOR)
 tut1071;Wallace da Silva Carvalho;2024-1|PEL20206|BG|N|ELT0601N;Eletrônica Aplicada [PEL20206|BG|N|ELT0601N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|BS|M|ADS0101M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BS|M|ADS0101M];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21104|BS|N|JUR0402N;Direitos Fundamentais, org política do Brasil e sua relação com outros países [PDR21104|BS|N|JUR0402N];Presencial (TUTOR)
-"tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0304N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0304N];Presencial (TUTOR)"
+tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0304N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0304N];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|M|JOR0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|JOR0202M];Presencial (TUTOR)
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|BS|N|SAU0027N;Humanização e Saúde [PFT23101|BS|N|SAU0027N];Presencial (TUTOR)
 tut1029;Carolina Boucinha Martins;2024-1|PFT23102|CG|M|BME0104M;Origem da Vida [PFT23102|CG|M|BME0104M];Presencial (TUTOR)
@@ -1483,7 +1496,7 @@ tut1078;Karolynne Gorito de Oliveira;2024-1|PDR21105|CG|N|JUR0501N;Instrumentali
 tut1120;Carla Andressa Pedron;2024-1|PFT21104|BS|M|FTO0401M;Manejo Clínico [PFT21104|BS|M|FTO0401M];Presencial (TUTOR)
 tut1089;Vanessa Fernandes dos Santos;2024-1|PRH23101|BS|N|GRH0101N;Cultura Organizacional [PRH23101|BS|N|GRH0101N];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|CG|N|CIV0602N;Geotecnia [PCI20206|CG|N|CIV0602N];Presencial (TUTOR)
-"tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0302N];Presencial (TUTOR)"
+tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0302N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0302N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|BS|M|CET0008M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BS|M|CET0008M];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|M|JOR0201M;Sociedade, Consumo e Expressão [PJO23102|BS|M|JOR0201M];Presencial (TUTOR)
 tut1051;Carla Monteiro Leal;2024-1|PFA21105|BS|N|FAR0502N;Análises Químicas [PFA21105|BS|N|FAR0502N];Presencial (TUTOR)
@@ -1499,7 +1512,7 @@ tut1099;Rodolfo Velasque Freitas de Oliveira;2024-1|PBE20.106|CG|M|BEF0601M;Inic
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|BS|N|SAU0030N;Humanização e Saúde [PFT23101|BS|N|SAU0030N];Presencial (TUTOR)
 tut1118;Natália Xavier Pereira da Costa;2024-1|PLE20.105|BS|N|EDF0501N;Aprendendo a Ensinar [PLE20.105|BS|N|EDF0501N];Presencial (TUTOR)
 tut1054;Rafael Rizzaro de Almeida;2024-1|PDG23101|BS|M|SDG0102M;Identidade Visual [PDG23101|BS|M|SDG0102M];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0301N];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|BS|N|PSI0301N];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PAD23104|BG|N|CSA0006N;Planejamento Estratégico e Marketing Experience [PAD23104|BG|N|CSA0006N];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21106|BS|N|JUR0601N;Tutela Penal e Efetividade Processual das liberdades [PDR21106|BS|N|JUR0601N];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BS|M|ENG0402M;Liderança e Gestão de Equipes [PCI23104|BS|M|ENG0402M];Presencial (TUTOR)
@@ -1549,7 +1562,7 @@ tut1102;Maria da Conceição Avelino Dias;2024-1|PFA21106|CG|M|FAR0601M;Planejam
 tut1043;Raphael Fernandes Gomes;2024-1|PDR23102|BS|M|JUR0201M;Relações Jurídicas no Direito Privado [PDR23102|BS|M|JUR0201M];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23102|BS|M|ADS0201M;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BS|M|ADS0201M];Presencial (TUTOR)
 tut1059;Marcelo Jacinto de Abreu;2024-1|PPS23102|BS|M|PSI0201M;Desenvolvimento Humano [PPS23102|BS|M|PSI0201M];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|CG|M|PSI0301M];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|M|PSI0301M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0301M];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21107|BS|N|JUR0701N;Direitos Sociais Individuais, Coletivos e a Atividade Empresarial [PDR21107|BS|N|JUR0701N];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|BS|N|BME0402N;Análise Ambiental e de Alimentos [PBM21104|BS|N|BME0402N];Presencial (TUTOR)
 tut1103;Danielle Mendes da Silva Albuquerque;2024-1|POD23202|BS|I|ODO0201I;Mecanismos Morfofisiológicos da Odontologia [POD23202|BS|I|ODO0201I];Presencial (TUTOR)
@@ -1561,12 +1574,12 @@ tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23101|BS|M|BMV0101M;Ciências
 tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|PME20206|BG|N|MEC0601N;Instrumentação e Controle Industrial [PME20206|BG|N|MEC0601N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23102|BS|N|ADS0202N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BS|N|ADS0202N];Presencial (TUTOR)
 tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|BS|M|PSI0501M;Grupos e instituições [PPS211.105|BS|M|PSI0501M];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|BS|N|PSI0302N];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|N|PSI0302N;Fenômenos Sociais e Coletivos [PPS23103|BS|N|PSI0302N];Presencial (TUTOR)
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|CG|M|SAU0020M;Humanização e Saúde [PFT23101|CG|M|SAU0020M];Presencial (TUTOR)
 tut1056;João Gabriel Miranda;2024-1|PGA23104|BS|N|GAS0401N;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|N|GAS0401N];Presencial (TUTOR)
 tut1024;Davi dos Santos Marques;2024-1|PAD23103|CG|N|CSA0006N;Finanças Empresariais e Cenários Econômicos [PAD23103|CG|N|CSA0006N];Presencial (TUTOR)
-"tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0303N];Presencial (TUTOR)"
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0301N];Presencial (TUTOR)"
+tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0303N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0303N];Presencial (TUTOR)
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|N|PSI0301N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0301N];Presencial (TUTOR)
 tut1116;Felipe Akira Miasato;2024-1|PEM21106|CG|N|ENF0601N;Enfermagem e Saúde Coletiva [PEM21106|CG|N|ENF0601N];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|M|PUB0201M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0201M];Presencial (TUTOR)
 tut1024;Davi dos Santos Marques;2024-1|PCO21107|BS|N|COB0701N;Auditoria e Planejamento tributário [PCO21107|BS|N|COB0701N];Presencial (TUTOR)
@@ -1595,7 +1608,7 @@ tut1043;Raphael Fernandes Gomes;2024-1|PDR23101|BS|N|JUR0102N;Determinantes soci
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|PRH23103|BG|N|GRH0301N;Administração de Pessoal [PRH23103|BG|N|GRH0301N];Presencial (TUTOR)
 tut1078;Karolynne Gorito de Oliveira;2024-1|PDR21105|CG|M|JUR0501M;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|M|JUR0501M];Presencial (TUTOR)
 tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|CG|M|PSI0501M;Grupos e instituições [PPS211.105|CG|M|PSI0501M];Presencial (TUTOR)
-"tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BS|N|ADS0301N];Presencial (TUTOR)"
+tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0301N];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV22204|BS|N|BMV0401N;Sanidade Animal e Práticas Veterinárias [PMV22204|BS|N|BMV0401N];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21104|BS|N|ENF0401N;Mecanismos de Defesa da Vida [PEM21104|BS|N|ENF0401N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|CG|M|ADS0101M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|CG|M|ADS0101M];Presencial (TUTOR)
@@ -1612,7 +1625,7 @@ tut1109;Felipe de Oliveira Santos;2024-1|PBM21106|CG|M|BME0602M;Análises Clíni
 tut1054;Rafael Rizzaro de Almeida;2024-1|PDG23101|BS|N|SDG0102N;Identidade Visual [PDG23101|BS|N|SDG0102N];Presencial (TUTOR)
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|CG|M|SAU0032M;Humanização e Saúde [PFT23101|CG|M|SAU0032M];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21107|CG|N|ENF0701N;Enfermagem na Prática Clínica [PEM21107|CG|N|ENF0701N];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|N|PSI0302N;Fenômenos Sociais e Coletivos		 [PPS23103|CG|N|PSI0302N];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|N|PSI0302N;Fenômenos Sociais e Coletivos [PPS23103|CG|N|PSI0302N];Presencial (TUTOR)
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|PRH23102|BS|N|GRH0201N;Recrutamento e Seleção [PRH23102|BS|N|GRH0201N];Presencial (TUTOR)
 tut1054;Rafael Rizzaro de Almeida;2024-1|PJO23106|BS|M|SDG0301M;Produção Digital e Experiência do Usuário [PJO23106|BS|M|SDG0301M];Presencial (TUTOR)
 tut1029;Carolina Boucinha Martins;2024-1|PFT23102|CG|N|SAU0020N;Origem da Vida [PFT23102|CG|N|SAU0020N];Presencial (TUTOR)
@@ -1625,7 +1638,7 @@ tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23102|BG|N|BMV0201N;Mecanismo
 tut1064;Nielson Athayde de Souza;2024-1|PPS23104|CG|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|CG|N|PSI0401N];Presencial (TUTOR)
 tut1078;Karolynne Gorito de Oliveira;2024-1|PDR21105|BS|N|JUR0501N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|BS|N|JUR0501N];Presencial (TUTOR)
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|BS|M|SAU0030M;Humanização e Saúde [PFT23101|BS|M|SAU0030M];Presencial (TUTOR)
-"tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile	 [PAS23103|BG|M|ADS0301M];Presencial (TUTOR)"
+tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile [PAS23103|BG|M|ADS0301M];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|M|PUB0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0202M];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|BG|N|ADS0102N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|ADS0102N];Presencial (TUTOR)
 tut1090;Celina Maria Frias Leal Martins;2024-1|PAD23101|BS|M|CSA0003M;Empreendedorismo e Sustentabilidade [PAD23101|BS|M|CSA0003M];Presencial (TUTOR)
@@ -1734,7 +1747,7 @@ tut1102;Maria da Conceição Avelino Dias;2024-1|PBM21103|CG|M|FAR0401M;Mecanism
 tut1090;Celina Maria Frias Leal Martins;2024-1|PAD23101|BG|N|CSA0009N;Empreendedorismo e Sustentabilidade [PAD23101|BG|N|CSA0009N];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23102|BS|M|BMV0201M;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BS|M|BMV0201M];Presencial (TUTOR)
 tut1064;Nielson Athayde de Souza;2024-1|PPS211.106|CG|M|PSI0601M;Processos Clínicos [PPS211.106|CG|M|PSI0601M];Presencial (TUTOR)
-"tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos		 [PPS23103|BS|M|PSI0301M];Presencial (TUTOR)"
+tut1064;Nielson Athayde de Souza;2024-1|PPS23103|BS|M|PSI0301M;Fenômenos Sociais e Coletivos [PPS23103|BS|M|PSI0301M];Presencial (TUTOR)
 tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|PPU23105|BS|N|CSA0031N;Gerenciamento de Comunicação e Marketing [PPU23105|BS|N|CSA0031N];Presencial (TUTOR)
 tut1056;João Gabriel Miranda;2024-1|PGA23104|BS|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BS|M|GAS0401M];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC24101|BS|M|EST0102M;Estética Facial [PEC24101|BS|M|EST0102M];Presencial (TUTOR)
