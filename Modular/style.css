@@ -42,7 +42,7 @@ body::-webkit-scrollbar-thumb:hover{
     font-family: "PT Sans", sans-serif, arial !important;
 }
 .proc{
-    background: #EF7D00;
+    background: #666666;
 }
 th{
     padding: 4px;
