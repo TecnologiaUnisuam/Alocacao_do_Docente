@@ -779,6 +779,7 @@ adm1463;Maria Aparecida Santos de Oliveira;2024-1|PRH20204|BG|N|GRH0401N;Gestão
 grh1001;Waldir Irineu da Silva Junior;2024-1|PRH20204|BG|N|GRH0401N;Gestão de Pessoas [PRH20204|BG|N|GRH0401N];Presencial
 ele1017;Jorge Dias Ferreira;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial
 ele1023;MARIO Chalco;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial
+ele1024;Vinicius Medina;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial
 estfar02;Estágio Farmácia;2024-1|PFA21112|CG|T|FAR1201T;Estágio de Educação em Saúde II [PFA21112|CG|T|FAR1201T];Presencial
 eng1002;Gustavo Eduardo Oviedo Celis ;2024-1|PCI23101|BS|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0102N];Presencial
 mat1061;Pedro Passos;2024-1|PCI23101|BS|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0102N];Presencial
@@ -1076,8 +1077,6 @@ est1033;Luciana de Almeida Ferreira;2024-1|PEC24101|CG|M|EST0102M;Estética Faci
 est1029;MICHEL DA SILVA;2024-1|PEC24101|CG|M|EST0101M;Estética Facial [PEC24101|CG|M|EST0101M];Presencial
 est1033;Luciana de Almeida Ferreira;2024-1|PEC24101|CG|M|EST0101M;Estética Facial [PEC24101|CG|M|EST0101M];Presencial
 sdg1001;Adalberto Rocha;2024-1|PDG23102|BS|T|SDG0201T;Embalagem [PDG23102|BS|T|SDG0201T];Presencial
-edu2004;Julia Tadeu Silva dos Santos e Paula;2024-1|PHI20207|BS|N|HUM0005N;Pedagogia em Ação [PHI20207|BS|N|HUM0005N];Presencial
-edu2014;Rose Cristina da Silva Sobral;2024-1|PHI20207|BS|N|HUM0005N;Pedagogia em Ação [PHI20207|BS|N|HUM0005N];Presencial
 mat1051;Geraldo Motta;2024-1|PME20206|BG|N|ENG0412N;Instrumentação e Controle Industrial [PME20206|BG|N|ENG0412N];Presencial
 mec1015;Andre Avelino de Oliveira Mendes;2024-1|PME20206|BG|N|ENG0412N;Instrumentação e Controle Industrial [PME20206|BG|N|ENG0412N];Presencial
 enf1055;Patrícia de Souza;2024-1|PEM21105|BS|N|SAU0068N;Cuidados de enfermagem e seus fundamentos [PEM21105|BS|N|SAU0068N];Presencial
@@ -1315,6 +1314,11 @@ enf1135;Davi Jeronimo da Silva;2024-1|PFT23102|BS|M|SAU0011M;Origem da Vida [PFT
 enf1143;Helena Nascimento;2024-1|PFT23102|BS|M|SAU0011M;Origem da Vida [PFT23102|BS|M|SAU0011M];Presencial
 far1096;Marilia Amavel;2024-1|PFT23102|BS|M|SAU0011M;Origem da Vida [PFT23102|BS|M|SAU0011M];Presencial
 fto1159;Luiggi Lustosa;2024-1|PFT23102|BS|M|SAU0011M;Origem da Vida [PFT23102|BS|M|SAU0011M];Presencial
+edu2004;Julia Tadeu Silva dos Santos e Paula;2024-1|PPE20207|BS|N|PED0701N;Pedagogia em Ação [PPE20207|BS|N|PED0701N];Presencial
+edu2014;Rose Cristina da Silva Sobral;2024-1|PPE20207|BS|N|PED0701N;Pedagogia em Ação [PPE20207|BS|N|PED0701N];Presencial
+edu2004;Julia Tadeu Silva dos Santos e Paula;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
+his1041;Rafael Mattoso;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
+let1069;Rosana da Silva Berg;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|CG|M|ENF0501M;Cuidados de enfermagem e seus fundamentos [PEM21105|CG|M|ENF0501M];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|BS|N|CIV0601N;Geotecnia [PCI20206|BS|N|CIV0601N];Presencial (TUTOR)
 tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|N|PSI0401N];Presencial (TUTOR)
@@ -1707,7 +1711,6 @@ tut1118;Natália Xavier Pereira da Costa;2024-1|PPE20204|BS|T|PED0401T;Aprendend
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC24101|CG|M|EST0102M;Estética Facial [PEC24101|CG|M|EST0102M];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC24101|CG|M|EST0101M;Estética Facial [PEC24101|CG|M|EST0101M];Presencial (TUTOR)
 tut1054;Rafael Rizzaro de Almeida;2024-1|PDG23102|BS|T|SDG0201T;Embalagem [PDG23102|BS|T|SDG0201T];Presencial (TUTOR)
-tut1118;Natália Xavier Pereira da Costa;2024-1|PHI20207|BS|N|HUM0005N;Pedagogia em Ação [PHI20207|BS|N|HUM0005N];Presencial (TUTOR)
 tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|PME20206|BG|N|ENG0412N;Instrumentação e Controle Industrial [PME20206|BG|N|ENG0412N];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|BS|N|SAU0068N;Cuidados de enfermagem e seus fundamentos [PEM21105|BS|N|SAU0068N];Presencial (TUTOR)
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial (TUTOR)
