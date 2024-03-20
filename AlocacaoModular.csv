@@ -172,6 +172,7 @@ arq1012;Mario de Lima;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Sociedade [PAR2310
 arq1025;Adriana Colafranceschi Durante;2024-1|PAR23103|BG|M|ARQ0301M;Habitar e Sociedade [PAR23103|BG|M|ARQ0301M];Presencial
 estfar02;Estágio Farmácia;2024-1|PFA21112|BS|T|FAR1201T;Estágio de Educação em Saúde II Orientação de Estágio [PFA21112|BS|T|FAR1201T];Presencial
 pub1021;Nilmar Figueiredo de Souza;2024-1|PDG23101|BS|M|SDG0101M;Identidade Visual [PDG23101|BS|M|SDG0101M];Presencial
+sdg1001;Adalberto Rocha;2024-1|PDG23101|BS|M|SDG0101M;Identidade Visual [PDG23101|BS|M|SDG0101M];Presencial
 estfto15;ESTFTO15 Estfto15;2024-1|PFT21112|BS|M|FTO1204M;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|M|FTO1204M];Presencial
 estpsi5;ESTPSI ESTPSI;2024-1|PPS211.113|BS|N|PSI1303N;Estágio Profissional I [PPS211.113|BS|N|PSI1303N];Presencial
 estbmd02;ESTBMD02 Estbmd02;2024-1|PBM21109|BS|N|BME0901N;Estágio Supervisionado I Orientação de Estágio [PBM21109|BS|N|BME0901N];Presencial
@@ -652,6 +653,7 @@ ele1017;Jorge Dias Ferreira;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industri
 ele1023;MARIO Chalco;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial
 mat1051;Geraldo Motta;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial
 pub1029;Carlos Eduardo Ribeiro da Fonseca ;2024-1|PJO23106|BS|N|SDG0301N;Produção Digital e Experiência do Usuário [PJO23106|BS|N|SDG0301N];Presencial
+jor1008;Maria Joo Martins Palma Vieira;2024-1|PJO23106|BS|N|SDG0301N;Produção Digital e Experiência do Usuário [PJO23106|BS|N|SDG0301N];Presencial
 estpsi14;Professor estpsi14;2024-1|PPS23113|BS|T|PSI1311T;Estágio Profissional I Orientação de Estágio [PPS23113|BS|T|PSI1311T];Presencial
 jor1005;Mirian Martins da Motta Magalhaes;2024-1|PJO23102|BS|N|PUB0201N;Sociedade, Consumo e Expressão [PJO23102|BS|N|PUB0201N];Presencial
 pub1026;Pedro Henrique Ferreira Portugal;2024-1|PJO23102|BS|N|PUB0201N;Sociedade, Consumo e Expressão [PJO23102|BS|N|PUB0201N];Presencial
@@ -699,8 +701,6 @@ inf1072;Oswaldo Borges Peres;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Ap
 inf1084;Carlos Henrique;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile [PAS23103|BG|M|ADS0301M];Presencial
 pub1004;Paulo Cesar da Silva Ramos;2024-1|PJO23102|BS|M|PUB0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0202M];Presencial
 pub1022;Carla Mota dos Santos da Silva;2024-1|PJO23102|BS|M|PUB0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0202M];Presencial
-inf1004;Marco Antonio Xaves Valentim;2024-1|PAS23101|BG|N|ADS0102N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|ADS0102N];Presencial
-inf1073;Kellen Cristina de Almeida Nery;2024-1|PAS23101|BG|N|ADS0102N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|ADS0102N];Presencial
 estpsi8;Michele Nascimento Santos;2024-1|PPS211.112|BS|M|PSI1201M;Estágio Básico II Triagem Orientação de Estágio [PPS211.112|BS|M|PSI1201M];Presencial
 adm1499;Fabiana Capella e Azeredo;2024-1|PAD23101|BS|M|CSA0003M;Empreendedorismo e Sustentabilidade [PAD23101|BS|M|CSA0003M];Presencial
 cob1021;Francisco Lorentz;2024-1|PAD23101|BS|M|CSA0003M;Empreendedorismo e Sustentabilidade [PAD23101|BS|M|CSA0003M];Presencial
@@ -1319,6 +1319,8 @@ edu2014;Rose Cristina da Silva Sobral;2024-1|PPE20207|BS|N|PED0701N;Pedagogia em
 edu2004;Julia Tadeu Silva dos Santos e Paula;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
 his1041;Rafael Mattoso;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
 let1069;Rosana da Silva Berg;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
+pub1004;Paulo Cesar da Silva Ramos;2024-1|PMK20.103A|BS|T|TMK0301T;Gestão de Conteúdo e Comunicação [PMK20.103A];Presencial
+bio1084;Tatiana Amorim Muniz;2024-1|PLB20211|BS|T|BIO1101T;Estágio Supervisionado no Ensino Médio Orientação de Estágio [PLB20211|BS|T|BIO1101T];Presencial
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|CG|M|ENF0501M;Cuidados de enfermagem e seus fundamentos [PEM21105|CG|M|ENF0501M];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|BS|N|CIV0601N;Geotecnia [PCI20206|BS|N|CIV0601N];Presencial (TUTOR)
 tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|N|PSI0401N];Presencial (TUTOR)
