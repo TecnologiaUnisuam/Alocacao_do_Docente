@@ -22,7 +22,7 @@ jur1254;Alfredo Rodrigues Junior;2024-1|PDR23103|BS|N|JUR0301N;As ciências crim
 jur1272;Tamara da Cruz;2024-1|PDR23103|BS|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0301N];Presencial
 jur1276;Thiago Minage;2024-1|PDR23103|BS|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0301N];Presencial
 estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21109|CG|N|BME0901N;Estágio Supervisionado I [PBM21109|CG|N|BME0901N];Presencial
-estfto20;ESTFTO20 Estfto20;2024-1|PFT21112|BS|M|FTO1203M;Estágio Supervisionado do recém-nascido e criança [PFT21112|BS|M|FTO1203M];Presencial
+estfto5;ESTFTO5 Estfto5;2024-1|PFT21112|BS|M|FTO1203M;Estágio Supervisionado do recém-nascido e criança [PFT21112|BS|M|FTO1203M];Presencial
 edf1016;Nanci Luz Pimenta Baliulevicius;2024-1|PLE20.105|BS|M|EDF0501M;Aprendendo a Ensinar [PLE20.105|BS|M|EDF0501M];Presencial
 edf1083;Guilherme Borges Pacheco Pereira;2024-1|PLE20.105|BS|M|EDF0501M;Aprendendo a Ensinar [PLE20.105|BS|M|EDF0501M];Presencial
 bio1097;Guilherme Curty Lechuga;2024-1|PBM21107|CG|N|BME0701N;Biotecnologia [PBM21107|CG|N|BME0701N];Presencial
@@ -290,7 +290,7 @@ estpsi15;Professor estpsi15;2024-1|PPS211.111|CG|N|PSI1101N;Estágio Básico I e
 pub1021;Nilmar Figueiredo de Souza;2024-1|PDG23101|BG|N|SDG0101N;Identidade Visual [PDG23101|BG|N|SDG0101N];Presencial
 pub1029;Carlos Eduardo Ribeiro da Fonseca ;2024-1|PDG23101|BG|N|SDG0101N;Identidade Visual [PDG23101|BG|N|SDG0101N];Presencial
 estpsi9;ESTPSI9 ESTPSI9;2024-1|PPS211.113|BS|M|PSI1301M;Estágio Profissional I Orientação de Estágio [PPS211.113|BS|M|PSI1301M];Presencial
-nut1058;Paula Albuquerque Penna Franca;2024-1|PGA23101|BG|T|GAS0101T;Panificação e Confeitaria [PGA23101|BG|T|GAS0101T];Presencial
+gas1026;Fernanda Calixto Oliveira Soares;2024-1|PGA23101|BG|T|GAS0101T;Panificação e Confeitaria [PGA23101|BG|T|GAS0101T];Presencial
 estpsi17;ESTPSI17 ESTPSI17;2024-1|PPS211.113|BS|N|PSI1304N;Estágio Profissional I [PPS211.113|BS|N|PSI1304N];Presencial
 arq1012;Mario de Lima;2024-1|PAR20205|BS|M|ARQ0501M;Modelagem Estrutural [PAR20205|BS|M|ARQ0501M];Presencial
 civ1148;Marilyn Tamara;2024-1|PAR20205|BS|M|ARQ0501M;Modelagem Estrutural [PAR20205|BS|M|ARQ0501M];Presencial
@@ -313,13 +313,12 @@ odo1006;Fernanda de Souza;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Co
 odo1007;Jhonathan Barros Nascimento Raphaell;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Coletiva [POD23103|BS|I|ODO0301I];Presencial
 odo1008;Daniel Cohen Goldemberg;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Coletiva [POD23103|BS|I|ODO0301I];Presencial
 estbmd02;ESTBMD02 Estbmd02;2024-1|PBM21109|BS|M|BME0902M;Estágio Supervisionado I [PBM21109|BS|M|BME0902M];Presencial
-gas1020;Marco Aurélio;2024-1|PGA23103|BS|N|GAS0301N;Cozinha Internacional [PGA23103|BS|N|GAS0301N];Presencial
 gas1025;Jorge Alexandre de Figueiredo Fernandes;2024-1|PGA23103|BS|N|GAS0301N;Cozinha Internacional [PGA23103|BS|N|GAS0301N];Presencial
 bmd1008;Caio Cesar Richter Nogueira;2024-1|PBM21104|BS|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|BS|M|BME0401M];Presencial
 bmd1012;FABIO Santos;2024-1|PBM21104|BS|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|BS|M|BME0401M];Presencial
 nut1036;Eliane de Souza Paiva;2024-1|PBM21104|BS|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|BS|M|BME0401M];Presencial
 jur1267;Taiara Giffoni Quinta dos Santos;2024-1|PDR21105|CG|N|JUR0501N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|N|JUR0501N];Presencial
-jur1274;Ana Claudia Theodoro;2024-1|PDR21105|CG|N|JUR0501N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|N|JUR0501N];Presencial
+jur1282;Marcos Rego;2024-1|PDR21105|CG|N|JUR0501N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|N|JUR0501N];Presencial
 arq1063;Fábio Bruno de Oliveira;2024-1|PAR20211|BG|N|ARQ1101N;Estágio Orientação de Estágio [PAR20211|BG|N|ARQ1101N];Presencial
 jor1008;Maria Joo Martins Palma Vieira;2024-1|PJO20209|BS|T|JOR0901T;Estágio em Jornalismo I [PJO20209|BS|T|JOR0901T];Presencial
 estfto18;ESTFTO18 Estfto18;2024-1|PFT21112|BS|T|FTO1208T;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|T|FTO1208T];Presencial
@@ -355,7 +354,7 @@ far1063;Uiaran de Oliveira Magalhães;2024-1|PFA21106|CG|N|FAR0601N;Planejamento
 far1100;Ian Gardel Carvalho Barcellos Silva;2024-1|PFA21106|CG|N|FAR0601N;Planejamento e Desenvolvimento de Fármacos [PFA21106|CG|N|FAR0601N];Presencial
 far1103;JOANA Ribeiro;2024-1|PFA21106|CG|N|FAR0601N;Planejamento e Desenvolvimento de Fármacos [PFA21106|CG|N|FAR0601N];Presencial
 estfar04;ESTFAR04 Estfar04;2024-1|PFA21113|BS|T|FAR1302T;Estágio em Educação Farmacêutica Orientação de Estágio [PFA21113|BS|T|FAR1302T];Presencial
-estfto20;ESTFTO20 Estfto20;2024-1|PFT21112|BS|T|FTO1202T;Estágio Supervisionado do recém-nascido e criança [PFT21112|BS|T|FTO1202T];Presencial
+estfto5;ESTFTO5 Estfto5;2024-1|PFT21112|BS|T|FTO1202T;Estágio Supervisionado do recém-nascido e criança [PFT21112|BS|T|FTO1202T];Presencial
 inf1004;Marco Antonio Xaves Valentim;2024-1|PAS23102|BG|N|ADS0201N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BG|N|ADS0201N];Presencial
 inf1073;Kellen Cristina de Almeida Nery;2024-1|PAS23102|BG|N|ADS0201N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BG|N|ADS0201N];Presencial
 sti1007;Silvio Eutimio de Barros;2024-1|PAS23102|BG|N|ADS0201N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BG|N|ADS0201N];Presencial
@@ -390,7 +389,7 @@ jur1276;Thiago Minage;2024-1|PDR21106|BS|N|JUR0601N;Tutela Penal e Efetividade P
 civ1147;Catia Azevedo dos Santos ;2024-1|PCI23104|BS|M|ENG0402M;Liderança e Gestão de Equipes [PCI23104|BS|M|ENG0402M];Presencial
 ele1021;Marcio Araujo de Souza;2024-1|PCI23104|BS|M|ENG0402M;Liderança e Gestão de Equipes [PCI23104|BS|M|ENG0402M];Presencial
 eng1004;Ronaldo Gomes de Castro Medeiros;2024-1|PCI23104|BS|M|ENG0402M;Liderança e Gestão de Equipes [PCI23104|BS|M|ENG0402M];Presencial
-gas1026;Fernanda Calixto Oliveira Soares;2024-1|PGA19203|BS|T|GAS0301T;Cozinha Internacional [PGA19203|BS|T|GAS0301T];Presencial
+nut1058;Paula Albuquerque Penna Franca;2024-1|PGA19203|BS|T|GAS0301T;Cozinha Internacional [PGA19203|BS|T|GAS0301T];Presencial
 vet1006;Claudia Morais Sequeira;2024-1|PMV23101|BG|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BG|N|BMV0101N];Presencial
 vet1007;Thais Mattos Estruc;2024-1|PMV23101|BG|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BG|N|BMV0101N];Presencial
 vet1016;PEDRO Mercez;2024-1|PMV23101|BG|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BG|N|BMV0101N];Presencial
@@ -747,7 +746,6 @@ civ1084;Everton Rangel Bispo;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas 
 ele1008;ROBERTO CRUZ DA SILVA;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas [PEL20207|BG|N|ELT0701N];Presencial
 ele1014;Cláudio Márcio do Nascimento Abreu Pereira ;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas [PEL20207|BG|N|ELT0701N];Presencial
 gas1014;Maria de Lourdes Agostinho de Andrade;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial
-gas1020;Marco Aurélio;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial
 gas1026;Fernanda Calixto Oliveira Soares;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial
 enf1086;Raquel Magalhães de Azeredo;2024-1|PEM21106|CG|M|ENF0601M;Enfermagem e Saúde Coletiva [PEM21106|CG|M|ENF0601M];Presencial
 enf1117;Alessandra Felix André Braga;2024-1|PEM21106|CG|M|ENF0601M;Enfermagem e Saúde Coletiva [PEM21106|CG|M|ENF0601M];Presencial
@@ -908,7 +906,7 @@ edf1109;Luiz Felipe Machado Pinto;2024-1|PBE23101|CG|N|BEF0101N;O que é Educaç
 vet1010;Caroline Rodrigues;2024-1|PMV23103|BG|M|BMV0301M;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BG|M|BMV0301M];Presencial
 vet1011;Simone Souto;2024-1|PMV23103|BG|M|BMV0301M;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BG|M|BMV0301M];Presencial
 vet1013;ELIENE Pina;2024-1|PMV23103|BG|M|BMV0301M;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BG|M|BMV0301M];Presencial
-estfto20;ESTFTO20 Estfto20;2024-1|PFT21112|BS|T|FTO1203T;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|T|FTO1203T];Presencial
+estfto5;ESTFTO5 Estfto5;2024-1|PFT21112|BS|T|FTO1203T;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|T|FTO1203T];Presencial
 fto1115;Daniele Bittencourt Ferreira;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
 fto1129;Alexsandro da Silva Oliveira;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
 fto1139;Camilla Polonini Martins;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
