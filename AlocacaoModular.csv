@@ -66,7 +66,7 @@ vet1006;Claudia Morais Sequeira;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúd
 vet1012;Raquel do Nascimento de Souza;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BS|N|BMV0101N];Presencial
 vet1014;MARCELO Gomes;2024-1|PMV23101|BS|N|BMV0101N;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BS|N|BMV0101N];Presencial
 psi0081;Agata Cristinier Castanheda da Silva;2024-1|PPS23101|BS|N|PSI0101N;Ciência, Saúde e Pesquisa [PPS23101|BS|N|PSI0101N];Presencial
-psi0139;Flavia Noro de Lima ;2024-1|PPS23101|BS|N|PSI0101N;Ciência, Saúde e Pesquisa [PPS23101|BS|N|PSI0101N];Presencial
+psi0156;Rafael Santana;2024-1|PPS23101|BS|N|PSI0101N;Ciência, Saúde e Pesquisa [PPS23101|BS|N|PSI0101N];Presencial
 estfto13;ESTFTO13 ESTFTO13;2024-1|PFT21111|BS|N|FTO1102N;Estágio em Atenção Básica [PFT21111|BS|N|FTO1102N];Presencial
 estbmd01;ESTBMD01 Estbmd01;2024-1|PBM21110|CG|N|BME1001N;Estágio Supervisionado II Orientação de Estágio [PBM21110|CG|N|BME1001N];Presencial
 estpsi8;Michele Nascimento Santos;2024-1|PPS211.112|BS|N|PSI1202N;Estágio Básico II Triagem [PPS211.112|BS|N|PSI1202N];Presencial
@@ -313,6 +313,7 @@ odo1006;Fernanda de Souza;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Co
 odo1007;Jhonathan Barros Nascimento Raphaell;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Coletiva [POD23103|BS|I|ODO0301I];Presencial
 odo1008;Daniel Cohen Goldemberg;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Coletiva [POD23103|BS|I|ODO0301I];Presencial
 estbmd02;ESTBMD02 Estbmd02;2024-1|PBM21109|BS|M|BME0902M;Estágio Supervisionado I [PBM21109|BS|M|BME0902M];Presencial
+gas1020;Marco Aurélio;2024-1|PGA23103|BS|N|GAS0301N;Cozinha Internacional [PGA23103|BS|N|GAS0301N];Presencial
 gas1025;Jorge Alexandre de Figueiredo Fernandes;2024-1|PGA23103|BS|N|GAS0301N;Cozinha Internacional [PGA23103|BS|N|GAS0301N];Presencial
 bmd1008;Caio Cesar Richter Nogueira;2024-1|PBM21104|BS|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|BS|M|BME0401M];Presencial
 bmd1012;FABIO Santos;2024-1|PBM21104|BS|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|BS|M|BME0401M];Presencial
@@ -588,7 +589,7 @@ edf1067;CLAUDIA PAULICH;2024-1|PBE20.106|CG|N|BEF0602N;Iniciação Esportiva [PB
 edf1093;Marcelo Jose Colonna de Miranda;2024-1|PBE20.106|CG|N|BEF0602N;Iniciação Esportiva [PBE20.106|CG|N|BEF0602N];Presencial
 edf1109;Luiz Felipe Machado Pinto;2024-1|PBE20.106|CG|N|BEF0602N;Iniciação Esportiva [PBE20.106|CG|N|BEF0602N];Presencial
 psi0107;Kátia Maria Ribeiro de Souza;2024-1|PPS211.107|BS|M|PSI0701M;Processos psicopatológicos [PPS211.107|BS|M|PSI0701M];Presencial
-psi0139;Flavia Noro de Lima ;2024-1|PPS211.107|BS|M|PSI0701M;Processos psicopatológicos [PPS211.107|BS|M|PSI0701M];Presencial
+psi0156;Rafael Santana;2024-1|PPS211.107|BS|M|PSI0701M;Processos psicopatológicos [PPS211.107|BS|M|PSI0701M];Presencial
 inf1077;Vinicius da Silva;2024-1|PAS23102|CG|N|ADS0201N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|CG|N|ADS0201N];Presencial
 sti1006;Marcelo Vasconcelos Fatudo;2024-1|PAS23102|CG|N|ADS0201N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|CG|N|ADS0201N];Presencial
 adm1507;Simone Sagui Exposto Jose;2024-1|PAD23101|BG|N|CSA0003N;Empreendedorismo e Sustentabilidade [PAD23101|BG|N|CSA0003N];Presencial
@@ -596,7 +597,6 @@ cob1049;Flavio Luis Vieira Souza;2024-1|PAD23101|BG|N|CSA0003N;Empreendedorismo 
 fto1139;Camilla Polonini Martins;2024-1|PFT21105|CG|N|FTO0501N;Ciência do Movimento [PFT21105|CG|N|FTO0501N];Presencial
 fto1161;Alexandre Gonçalves de Meirelles;2024-1|PFT21105|CG|N|FTO0501N;Ciência do Movimento [PFT21105|CG|N|FTO0501N];Presencial
 edu2024;Maria Auxiliadora Terra Cunha;2024-1|PBE20.110|CG|T|BEF1001T;Estágio Supervisionado de Bacharelado em Educação Física II Orientação de Estágio [PBE20.110|CG|T|BEF1001T];Presencial
-gas1014;Maria de Lourdes Agostinho de Andrade;2024-1|PGA19202|BS|T|GAS0201T;Cozinha Brasileira e das Américas [PGA19202|BS|T|GAS0201T];Presencial
 arq1013;Maria Izabel de Paula Ribeiro;2024-1|PAR23104|BS|N|ARQ0401N;Habitar e Cidade [PAR23104|BS|N|ARQ0401N];Presencial
 arq1054;Sonia D. Fragoso;2024-1|PAR23104|BS|N|ARQ0401N;Habitar e Cidade [PAR23104|BS|N|ARQ0401N];Presencial
 edf1083;Guilherme Borges Pacheco Pereira;2024-1|PBE23101|BS|M|BEF0102M;O que é Educação Física? Experiências corporais nas relações humanas [PBE23101|BS|M|BEF0102M];Presencial
@@ -746,6 +746,7 @@ civ1084;Everton Rangel Bispo;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas 
 ele1008;ROBERTO CRUZ DA SILVA;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas [PEL20207|BG|N|ELT0701N];Presencial
 ele1014;Cláudio Márcio do Nascimento Abreu Pereira ;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas [PEL20207|BG|N|ELT0701N];Presencial
 gas1014;Maria de Lourdes Agostinho de Andrade;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial
+gas1020;Marco Aurélio;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial
 gas1026;Fernanda Calixto Oliveira Soares;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial
 enf1086;Raquel Magalhães de Azeredo;2024-1|PEM21106|CG|M|ENF0601M;Enfermagem e Saúde Coletiva [PEM21106|CG|M|ENF0601M];Presencial
 enf1117;Alessandra Felix André Braga;2024-1|PEM21106|CG|M|ENF0601M;Enfermagem e Saúde Coletiva [PEM21106|CG|M|ENF0601M];Presencial
@@ -764,7 +765,7 @@ bmd1006;Phelipe Oliveira de Macedo;2024-1|PBM21104|CG|N|BME0402N;Análise Ambien
 bmd1009;Danielle Costa;2024-1|PBM21104|CG|N|BME0402N;Análise Ambiental e de Alimentos [PBM21104|CG|N|BME0402N];Presencial
 nut1036;Eliane de Souza Paiva;2024-1|PBM21104|CG|N|BME0402N;Análise Ambiental e de Alimentos [PBM21104|CG|N|BME0402N];Presencial
 edf1113;Michelle Cristina Lôbo Coutinho ;2024-1|PFT21106|BS|M|FTO0601M;Gestão e Planejamento de Carreira [PFT21106|BS|M|FTO0601M];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT21106|BS|M|FTO0601M;Gestão e Planejamento de Carreira [PFT21106|BS|M|FTO0601M];Presencial
+fto1173;Natalia Silva;2024-1|PFT21106|BS|M|FTO0601M;Gestão e Planejamento de Carreira [PFT21106|BS|M|FTO0601M];Presencial
 mkt1012;Gércton Bernardo Coitinho;2024-1|PMK23101|BS|N|TMK0101N;Gestão em Varejo e Desenvolvimento de Produtos [PMK23101|BS|N|TMK0101N];Presencial
 pub1004;Paulo Cesar da Silva Ramos;2024-1|PMK23101|BS|N|TMK0101N;Gestão em Varejo e Desenvolvimento de Produtos [PMK23101|BS|N|TMK0101N];Presencial
 vet1006;Claudia Morais Sequeira;2024-1|PMV23101|BG|M|BMV0101M;Ciências da Saúde e a Formação do Médico Veterinário na Sociedade [PMV23101|BG|M|BMV0101M];Presencial
@@ -806,12 +807,12 @@ est1024;Vanessa Dias;2024-1|PEC24101|BS|M|EST0101M;Estética Facial [PEC24101|BS
 est1026;Raquel Molina;2024-1|PEC24101|BS|M|EST0101M;Estética Facial [PEC24101|BS|M|EST0101M];Presencial
 est1035;CANDY Braga;2024-1|PEC24101|BS|M|EST0101M;Estética Facial [PEC24101|BS|M|EST0101M];Presencial
 fto1132;Ygor Teixeira da Silva;2024-1|PFT21105|CG|N|FTO0502N;Ciência do Movimento [PFT21105|CG|N|FTO0502N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT21105|CG|N|FTO0502N;Ciência do Movimento [PFT21105|CG|N|FTO0502N];Presencial
 fto1161;Alexandre Gonçalves de Meirelles;2024-1|PFT21105|CG|N|FTO0502N;Ciência do Movimento [PFT21105|CG|N|FTO0502N];Presencial
+fto1173;Natalia Silva;2024-1|PFT21105|CG|N|FTO0502N;Ciência do Movimento [PFT21105|CG|N|FTO0502N];Presencial
 adm1499;Fabiana Capella e Azeredo;2024-1|PRH23103|BS|M|GRH0301M;Administração de Pessoal [PRH23103|BS|M|GRH0301M];Presencial
 grh1001;Waldir Irineu da Silva Junior;2024-1|PRH23103|BS|M|GRH0301M;Administração de Pessoal [PRH23103|BS|M|GRH0301M];Presencial
 edf1113;Michelle Cristina Lôbo Coutinho ;2024-1|PFT21106|BS|N|FTO0601N;Gestão e Planejamento de Carreira [PFT21106|BS|N|FTO0601N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT21106|BS|N|FTO0601N;Gestão e Planejamento de Carreira [PFT21106|BS|N|FTO0601N];Presencial
+fto1173;Natalia Silva;2024-1|PFT21106|BS|N|FTO0601N;Gestão e Planejamento de Carreira [PFT21106|BS|N|FTO0601N];Presencial
 psi0093;Nihil Scarpine;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
 psi0132;Patrick Botelho;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
 psi0154;Juraci Silva;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
@@ -1020,7 +1021,7 @@ bio1074;Andre Luis Peixoto Canda;2024-1|PBM21104|BS|N|BME0401N;Análise Ambienta
 bmd1009;Danielle Costa;2024-1|PBM21104|BS|N|BME0401N;Análise Ambiental e de Alimentos [PBM21104|BS|N|BME0401N];Presencial
 bmd1011;JULIA Santos;2024-1|PBM21104|BS|N|BME0401N;Análise Ambiental e de Alimentos [PBM21104|BS|N|BME0401N];Presencial
 psi0065;Luis Felipe Fleury;2024-1|PPS211.106|CG|N|PSI0601N;Processos Clínicos [PPS211.106|CG|N|PSI0601N];Presencial
-psi0139;Flavia Noro de Lima ;2024-1|PPS211.106|CG|N|PSI0601N;Processos Clínicos [PPS211.106|CG|N|PSI0601N];Presencial
+psi0156;Rafael Santana;2024-1|PPS211.106|CG|N|PSI0601N;Processos Clínicos [PPS211.106|CG|N|PSI0601N];Presencial
 enf1143;Helena Nascimento;2024-1|PNU21106|BG|M|NUT0601M;Intervenção Nutricional [PNU21106|BG|M|NUT0601M];Presencial
 nut1062;Giselle de Oliveira Sauer de Paiva Rio;2024-1|PNU21106|BG|M|NUT0601M;Intervenção Nutricional [PNU21106|BG|M|NUT0601M];Presencial
 nut1065;Caio Fábio Alves Leonor;2024-1|PNU21106|BG|M|NUT0601M;Intervenção Nutricional [PNU21106|BG|M|NUT0601M];Presencial
@@ -1083,9 +1084,9 @@ edu2024;Maria Auxiliadora Terra Cunha;2024-1|PLE20.111|CG|T|EDF1101T;Estágio Su
 far1008;Glauce Maria Nunes de Arajo;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
 far1066;Carla da Silva Pinheiro ;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
 fto1120;Diego Matos Galvao de Barros;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
 fto1162;Anna Brunet Monteiro Araujo;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
 nut1036;Eliane de Souza Paiva;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
+fto1173;Natalia Silva;2024-1|PFT23103|BS|N|SAU0022N;Saúde e Homeostase [PFT23103|BS|N|SAU0022N];Presencial
 enf1103;Alcilea Andrade Vila Flor;2024-1|PFT23101|BS|M|SAU0005M;Humanização e Saúde [PFT23101|BS|M|SAU0005M];Presencial
 far1010;Katia Avelar;2024-1|PFT23101|BS|M|SAU0005M;Humanização e Saúde [PFT23101|BS|M|SAU0005M];Presencial
 fto1084;Cristina Marcia Dias ;2024-1|PFT23101|BS|M|SAU0005M;Humanização e Saúde [PFT23101|BS|M|SAU0005M];Presencial
@@ -1099,8 +1100,8 @@ enf1117;Alessandra Felix André Braga;2024-1|PFT23101|BS|N|SAU0067N;Humanizaçã
 enf1135;Davi Jeronimo da Silva;2024-1|PFT23101|BS|N|SAU0067N;Humanização e Saúde [PFT23101|BS|N|SAU0067N];Presencial
 far1010;Katia Avelar;2024-1|PFT23101|BS|N|SAU0067N;Humanização e Saúde [PFT23101|BS|N|SAU0067N];Presencial
 fto1043;Ana Patricia Valença Orlando;2024-1|PFT23101|BS|N|SAU0067N;Humanização e Saúde [PFT23101|BS|N|SAU0067N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23101|BS|N|SAU0067N;Humanização e Saúde [PFT23101|BS|N|SAU0067N];Presencial
 fto1162;Anna Brunet Monteiro Araujo;2024-1|PFT23101|BS|N|SAU0067N;Humanização e Saúde [PFT23101|BS|N|SAU0067N];Presencial
+fto1173;Natalia Silva;2024-1|PFT23101|BS|N|SAU0067N;Humanização e Saúde [PFT23101|BS|N|SAU0067N];Presencial
 enf1103;Alcilea Andrade Vila Flor;2024-1|PFT23101|BS|M|SAU0003M;Humanização e Saúde [PFT23101|BS|M|SAU0003M];Presencial
 enf1143;Helena Nascimento;2024-1|PFT23101|BS|M|SAU0003M;Humanização e Saúde [PFT23101|BS|M|SAU0003M];Presencial
 far1010;Katia Avelar;2024-1|PFT23101|BS|M|SAU0003M;Humanização e Saúde [PFT23101|BS|M|SAU0003M];Presencial
@@ -1165,14 +1166,14 @@ fto1132;Ygor Teixeira da Silva;2024-1|PFT23102|CG|M|SAU0005M;Origem da Vida [PFT
 bio1069;Louise Calil Deterling;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
 far1066;Carla da Silva Pinheiro ;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
 fto1120;Diego Matos Galvao de Barros;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
 fto1162;Anna Brunet Monteiro Araujo;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
 nut1036;Eliane de Souza Paiva;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
+fto1173;Natalia Silva;2024-1|PFT23103|BS|N|SAU0020N;Saúde e Homeostase [PFT23103|BS|N|SAU0020N];Presencial
 bio1036;Claudio de Carvalho Piffer;2024-1|PFT23103|CG|M|SAU0014M;Saúde e Homeostase [PFT23103|CG|M|SAU0014M];Presencial
 enf1060;Cleide Gonalo Rufino;2024-1|PFT23103|CG|M|SAU0014M;Saúde e Homeostase [PFT23103|CG|M|SAU0014M];Presencial
 far1066;Carla da Silva Pinheiro ;2024-1|PFT23103|CG|M|SAU0014M;Saúde e Homeostase [PFT23103|CG|M|SAU0014M];Presencial
 far1101;Helena Pazos;2024-1|PFT23103|CG|M|SAU0014M;Saúde e Homeostase [PFT23103|CG|M|SAU0014M];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23103|CG|M|SAU0014M;Saúde e Homeostase [PFT23103|CG|M|SAU0014M];Presencial
+fto1173;Natalia Silva;2024-1|PFT23103|CG|M|SAU0014M;Saúde e Homeostase [PFT23103|CG|M|SAU0014M];Presencial
 bio1069;Louise Calil Deterling;2024-1|PFT23102|CG|N|SAU0013N;Origem da Vida [PFT23102|CG|N|SAU0013N];Presencial
 bmd1009;Danielle Costa;2024-1|PFT23102|CG|N|SAU0013N;Origem da Vida [PFT23102|CG|N|SAU0013N];Presencial
 enf1123;Ana Tereza Souza;2024-1|PFT23102|CG|N|SAU0013N;Origem da Vida [PFT23102|CG|N|SAU0013N];Presencial
@@ -1227,10 +1228,10 @@ far1096;Marilia Amavel;2024-1|PFT23101|CG|N|SAU0005N;Humanização e Saúde [PFT
 fto1159;Luiggi Lustosa;2024-1|PFT23101|CG|N|SAU0005N;Humanização e Saúde [PFT23101|CG|N|SAU0005N];Presencial
 bmd1004;Roney Rodrigues Guimarães;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
 far1066;Carla da Silva Pinheiro ;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
 fto1159;Luiggi Lustosa;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
 fto1162;Anna Brunet Monteiro Araujo;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
 nut1036;Eliane de Souza Paiva;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
+fto1173;Natalia Silva;2024-1|PFT23103|BS|N|SAU0024N;Saúde e Homeostase [PFT23103|BS|N|SAU0024N];Presencial
 enf1116;Fabiana Silva Marins Santa Rosa;2024-1|PFT23101|CG|N|SAU0001N;Humanização e Saúde [PFT23101|CG|N|SAU0001N];Presencial
 enf1117;Alessandra Felix André Braga;2024-1|PFT23101|CG|N|SAU0001N;Humanização e Saúde [PFT23101|CG|N|SAU0001N];Presencial
 far1096;Marilia Amavel;2024-1|PFT23101|CG|N|SAU0001N;Humanização e Saúde [PFT23101|CG|N|SAU0001N];Presencial
@@ -1259,14 +1260,14 @@ far1091;Darlan Ferreira de Souza;2024-1|PFT23102|CG|N|SAU0007N;Origem da Vida [P
 fto1132;Ygor Teixeira da Silva;2024-1|PFT23102|CG|N|SAU0007N;Origem da Vida [PFT23102|CG|N|SAU0007N];Presencial
 bmd1004;Roney Rodrigues Guimarães;2024-1|PFT23103|BS|N|SAU0026N;Saúde e Homeostase [PFT23103|BS|N|SAU0026N];Presencial
 far1066;Carla da Silva Pinheiro ;2024-1|PFT23103|BS|N|SAU0026N;Saúde e Homeostase [PFT23103|BS|N|SAU0026N];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23103|BS|N|SAU0026N;Saúde e Homeostase [PFT23103|BS|N|SAU0026N];Presencial
 fto1162;Anna Brunet Monteiro Araujo;2024-1|PFT23103|BS|N|SAU0026N;Saúde e Homeostase [PFT23103|BS|N|SAU0026N];Presencial
 nut1036;Eliane de Souza Paiva;2024-1|PFT23103|BS|N|SAU0026N;Saúde e Homeostase [PFT23103|BS|N|SAU0026N];Presencial
+fto1173;Natalia Silva;2024-1|PFT23103|BS|N|SAU0026N;Saúde e Homeostase [PFT23103|BS|N|SAU0026N];Presencial
 enf1060;Cleide Gonalo Rufino;2024-1|PFT23103|CG|M|SAU0012M;Saúde e Homeostase [PFT23103|CG|M|SAU0012M];Presencial
 far1066;Carla da Silva Pinheiro ;2024-1|PFT23103|CG|M|SAU0012M;Saúde e Homeostase [PFT23103|CG|M|SAU0012M];Presencial
 far1101;Helena Pazos;2024-1|PFT23103|CG|M|SAU0012M;Saúde e Homeostase [PFT23103|CG|M|SAU0012M];Presencial
 fto1132;Ygor Teixeira da Silva;2024-1|PFT23103|CG|M|SAU0012M;Saúde e Homeostase [PFT23103|CG|M|SAU0012M];Presencial
-fto1153;Debora Cristina Lima da Silva;2024-1|PFT23103|CG|M|SAU0012M;Saúde e Homeostase [PFT23103|CG|M|SAU0012M];Presencial
+fto1173;Natalia Silva;2024-1|PFT23103|CG|M|SAU0012M;Saúde e Homeostase [PFT23103|CG|M|SAU0012M];Presencial
 bio1036;Claudio de Carvalho Piffer;2024-1|PFT23103|CG|N|SAU0026N;Saúde e Homeostase [PFT23103|CG|N|SAU0026N];Presencial
 bio1096;Mariana Martins de Athaide ;2024-1|PFT23103|CG|N|SAU0026N;Saúde e Homeostase [PFT23103|CG|N|SAU0026N];Presencial
 enf1060;Cleide Gonalo Rufino;2024-1|PFT23103|CG|N|SAU0026N;Saúde e Homeostase [PFT23103|CG|N|SAU0026N];Presencial
@@ -1319,6 +1320,8 @@ his1041;Rafael Mattoso;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE2
 let1069;Rosana da Silva Berg;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial
 pub1004;Paulo Cesar da Silva Ramos;2024-1|PMK20.103A|BS|T|TMK0301T;Gestão de Conteúdo e Comunicação [PMK20.103A];Presencial
 bio1084;Tatiana Amorim Muniz;2024-1|PLB20211|BS|T|BIO1101T;Estágio Supervisionado no Ensino Médio Orientação de Estágio [PLB20211|BS|T|BIO1101T];Presencial
+estfto16;ESTFTO16 Estfto16;2024-1|PFT21112|BS|M|FTO1213M;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|M|FTO1213M];Presencial
+gas1014;Maria de Lourdes Agostinho de Andrade;2024-1|PGA23102|BS|T|GAS0201T;Cozinha Brasileira e das Américas [PGA23102|BS|T|GAS0201T];Presencial
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|CG|M|ENF0501M;Cuidados de enfermagem e seus fundamentos [PEM21105|CG|M|ENF0501M];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|BS|N|CIV0601N;Geotecnia [PCI20206|BS|N|CIV0601N];Presencial (TUTOR)
 tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|BS|N|PSI0401N];Presencial (TUTOR)
@@ -1510,7 +1513,6 @@ tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|M|PUB0201M;Sociedade, Consumo e 
 tut1024;Davi dos Santos Marques;2024-1|PCO21107|BS|N|COB0701N;Auditoria e Planejamento tributário [PCO21107|BS|N|COB0701N];Presencial (TUTOR)
 tut1102;Maria da Conceição Avelino Dias;2024-1|PBM21103|CG|N|FAR0401N;Mecanismos de Defesa do Corpo Humano [PBM21103|CG|N|FAR0401N];Presencial (TUTOR)
 tut1057;Yan Inácio da Silva;2024-1|PBE23102|CG|M|BEF0202M;Interface das Práticas Corporais [PBE23102|CG|M|BEF0202M];Presencial (TUTOR)
-tut1103;Danielle Mendes da Silva Albuquerque;2024-1|POD22105|BS|I|ODO0503I;Atenção Específica em Saúde Bucal e Procedimentos de Baixa Complexidade [POD22105|BS|I|ODO0503I];Presencial (TUTOR)
 tut1099;Rodolfo Velasque Freitas de Oliveira;2024-1|PBE20.105|BS|M|BEF0501M;Atividade Física e Promoção da Saúde [PBE20.105|BS|M|BEF0501M];Presencial (TUTOR)
 tut1134;Mariana de Oliveira Galvão;2024-1|PNU21106|BG|N|NUT0601N;Intervenção Nutricional [PNU21106|BG|N|NUT0601N];Presencial (TUTOR)
 tut1065;Phillipe Augusto Ferreira Rodrigues;2024-1|PBE20.107|BS|M|BEF0701M;Treinamento Físico Esportivo [PBE20.107|BS|M|BEF0701M];Presencial (TUTOR)
@@ -1579,7 +1581,6 @@ tut1024;Davi dos Santos Marques;2024-1|PAD23103|BS|N|CSA0015N;Finanças Empresar
 tut1071;Wallace da Silva Carvalho;2024-1|PEL20207|BG|N|ELT0701N;Máquinas Elétricas [PEL20207|BG|N|ELT0701N];Presencial (TUTOR)
 tut1093;Eveline Mamede Dantas;2024-1|PGA23101|BS|M|GAS0101M;Panificação e Confeitaria [PGA23101|BS|M|GAS0101M];Presencial (TUTOR)
 tut1116;Felipe Akira Miasato;2024-1|PEM21106|CG|M|ENF0601M;Enfermagem e Saúde Coletiva [PEM21106|CG|M|ENF0601M];Presencial (TUTOR)
-tut1103;Danielle Mendes da Silva Albuquerque;2024-1|POD22105|BS|I|ODO0504I;Atenção Específica em Saúde Bucal e Procedimentos de Baixa Complexidade [POD22105|BS|I|ODO0504I];Presencial (TUTOR)
 tut1102;Maria da Conceição Avelino Dias;2024-1|PFA21106|BS|N|FAR0601N;Planejamento e Desenvolvimento de Fármacos [PFA21106|BS|N|FAR0601N];Presencial (TUTOR)
 tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.107|BS|N|PSI0702N;Processos psicopatológicos [PPS211.107|BS|N|PSI0702N];Presencial (TUTOR)
 tut1054;Rafael Rizzaro de Almeida;2024-1|PMK23104A|BS|N|PUB0701N;Gestão e Ações de Marca [PMK23104A|BS|N|PUB0701N];Presencial (TUTOR)
@@ -1758,3 +1759,6 @@ tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|CG|M|SAU0030M;Humanização e 
 tut1095;Ricardo Ferreira Martins;2024-1|PFT23102|BS|N|SAU0009N;Origem da Vida [PFT23102|BS|N|SAU0009N];Presencial (TUTOR)
 tut1052;Thiago dos Santos Cardoso;2024-1|PFT23101|CG|M|SAU0003M;Humanização e Saúde [PFT23101|CG|M|SAU0003M];Presencial (TUTOR)
 tut1095;Ricardo Ferreira Martins;2024-1|PFT23102|BS|M|SAU0011M;Origem da Vida [PFT23102|BS|M|SAU0011M];Presencial (TUTOR)
+tut1118;Natália Xavier Pereira da Costa;2024-1|PPE20207|BS|N|PED0701N;Pedagogia em Ação [PPE20207|BS|N|PED0701N];Presencial (TUTOR)
+tut1118;Natália Xavier Pereira da Costa;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial (TUTOR)
+tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|PMK20.103A|BS|T|TMK0301T;Gestão de Conteúdo e Comunicação [PMK20.103A];Presencial (TUTOR)
