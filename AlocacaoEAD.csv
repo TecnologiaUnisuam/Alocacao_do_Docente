@@ -16,7 +16,6 @@ tut1030;Flora Thamiris Rodrigues Bittencourt;2024-1|GFIN1001|EAD|01;Projeto Inte
 tut1045;Ana Caroline dos Santos Gimenes Machado;2024-1|GSER1107|EAD|01;Supervisão Acadêmica e Oficina de Formação Profissional - 160h [GSER1107|EAD|01];EAD
 tut1122;Deborah Paredes Soares da Silva;2024-1|GINS1022|EAD|05;Metodologia do Trabalho Acadêmico e Científico [GINS1022|EAD|05];EAD
 tut1032;Monica Eugenia da Silva;2024-1|GSER1045|EAD|01;Serviço Social e Política de Saúde e Idoso [GSER1045|EAD|01];EAD
-soc0025;Lidia Alice Medeiros;2024-1|GPED1133|EAD|02;Seminário de Pesquisa em Educação [GPED1133|EAD|02];EAD
 tut1021;Claudia Abreu Paes ;2024-1|GADS1047|EAD|01;Programação Orientada a Objetos [GADS1047|EAD|01];EAD
 tut1089;Vanessa Fernandes dos Santos;2024-1|GDLO0010|EAD|01;Logística Internacional [GDLO0010|EAD|01];EAD
 tut1066;Wesley Pinto da Silva;2024-1|GCOB1085|EAD|01;Perícia Contábil - Teoria e Prática [GCOB1085|EAD|01];EAD
@@ -52,6 +51,7 @@ tut1122;Deborah Paredes Soares da Silva;2024-1|GINS1042|EAD|01;Leitura e Produç
 geo1001;Isabel de Oliveira Nascimento;2024-1|GGAM1026|EAD|01;Geologia [GGAM1026|EAD|01];EAD
 tut1061;Brayan Lima Cordeiro;2024-1|GDGF0004|EAD|01;Projeto Integrador II [GDGF0004|EAD|01];EAD
 tut1118;Natália Xavier Pereira da Costa;2024-1|GPED1131|EAD|01;Gestão e Coordenação na Educação Básica [GPED1131|EAD|01];EAD
+tut1121;Carlos Leonardo Loureiro Cardoso;2024-1|GDIR1177|EAD|01;Teoria Geral do Direito Registral e Notarial [GDIR1177|EAD|01];EAD
 tut1045;Ana Caroline dos Santos Gimenes Machado;2024-1|GSER1032|EAD|01;Fund Históricos Teó Met do Ser Soc (Conservadorismo) [GSER1032|EAD|01];EAD
 tut1119;Luciana de Souza Lobato;2024-1|GLIC1045|EAD|01;Estágio Supervisionado no ensino fundamental  6º e 7º ano [GLIC1045|EAD|01];EAD
 tut1106;Daniely Aparecida Polido Mendes;2024-1|GCSA1071|EAD|01;Gestão Financeira [GCSA1071|EAD|01];EAD
@@ -73,7 +73,6 @@ tut1084;Flávia Costa Machado;2024-1|GEAD0080|EAD|01;Direito Penal I [GEAD0080|E
 tut1036;Lygia Nathália Pereira da Silva;2024-1|GCOB1043|EAD|01;Análise de Investimentos e Fontes de Fin. [GCOB1043|EAD|01];EAD
 tut1117;Priscila Lopes d'Avila Borges;2024-1|GDLH0003|EAD|01;História Medieval [GDLH0003|EAD|01];EAD
 tut1118;Natália Xavier Pereira da Costa;2024-1|GDEF0003|EAD|01;Corpo, Cultura e Sociedade [GDEF0003|EAD|01];EAD
-tut1108;Raissa Lyra de Paiva Alves;2024-1|GCSA1099|EAD|01;Introdução a qualidade [GCSA1099|EAD|01];EAD
 tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|GDMK0004|EAD|01;Projeto Integrador I [GDMK0004|EAD|01];EAD
 tut1014;Rosemeri da Silva Paixão;2024-1|GADM1102|EAD|01;Sustentabilidade e Ética Organizacional [GADM1102|EAD|01];EAD
 tut1023;Renata Peres dos Santos;2024-1|GCSA1041|EAD|01;Controladoria Pública [GCSA1041|EAD|01];EAD
@@ -114,7 +113,9 @@ tut1111;Fernanda de Carvalho Nenartavis;2024-1|GDBE0006|EAD|01;Estágio Supervis
 tut1085;Everton Santos Vasconcelos;2024-1|GCSA1056|EAD|02;Contabilidade Geral [GCSA1056|EAD|02];EAD
 tut1072;Flavia Alexandrina Coelho Marcos;2024-1|GDMK0002|EAD|01;Estratégia de Vendas e Negociação [GDMK0002|EAD|01];EAD
 tut1042;Natalia Joana Silva de Oliveira;2024-1|GADM1085|EAD|01;Sistema de Informação Gerencial [GADM1085|EAD|01];EAD
+tut1093;Eveline Mamede Dantas;2024-1|GCSA1079|EAD|02;Legislação Trabalhista e Previdenciária [GCSA1079|EAD|02];EAD
 tut1121;Carlos Leonardo Loureiro Cardoso;2024-1|GDIR1190|EAD|01;Fundamentos de Direito e Estruturação Empresarial [GDIR1190|EAD|01];EAD
+tut1084;Flávia Costa Machado;2024-1|GDIR1181|EAD|01;Relações Jurídicas de Propriedade [GDIR1181|EAD|01];EAD
 tut1045;Ana Caroline dos Santos Gimenes Machado;2024-1|GSER1060|EAD|07;TCC [GSER1060|EAD|07];EAD
 tut1094;Carla Castilho Ferreira Bastos;2024-1|GDAI0002|EAD|01;Calculo Básico [GDAI0002|EAD|01];EAD
 tut1010;Alex dos Prazeres Machado;2024-1|GENG1129|EAD|01;Geometria Analítica [GENG1129|EAD|01];EAD
@@ -123,6 +124,7 @@ tut1054;Rafael Rizzaro de Almeida;2024-1|GDMK0008|EAD|01;Social Media e Web Anal
 tut1021;Claudia Abreu Paes ;2024-1|GADS1052|EAD|01;Desenvolvimento para Dispositivos Móveis [GADS1052|EAD|01];EAD
 tut1072;Flavia Alexandrina Coelho Marcos;2024-1|GADM1044|EAD|01;Gestão de Vendas [GADM1044|EAD|01];EAD
 tut1012;Rosangela Godinho Loureiro;2024-1|GADM1041|EAD|01;Administração da Produção I [GADM1041|EAD|01];EAD
+tut1045;Ana Caroline dos Santos Gimenes Machado;2024-1|GSER1097|EAD|01;Introdução ao Serviço Social [GSER1097|EAD|01];EAD
 tut1070;Gilliard da Silva Alves;2024-1|GADS1062|EAD|01;Fundamentos de Big Data e Internet das Coisas [GADS1062|EAD|01];EAD
 tut1011;Andre Luiz Bernardo Storino;2024-1|GINS1005|EAD|01;Filosofia [GINS1005|EAD|01];EAD
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|GADS1061|EAD|01;Estrutura de Dados [GADS1061|EAD|01];EAD
@@ -156,13 +158,14 @@ tut1065;Phillipe Augusto Ferreira Rodrigues;2024-1|GDEF0045|EAD|01;Fundamentos d
 tut1043;Raphael Fernandes Gomes;2024-1|GDPU0004|EAD|01;Prevenção e combate a sinistro [GDPU0004|EAD|01];EAD
 tut1094;Carla Castilho Ferreira Bastos;2024-1|GCSA1081|EAD|02;Métodos Quantitativos [GCSA1081|EAD|02];EAD
 soc0002;Ana Lucia Guimarães;2024-1|GLIC1019|EAD|01;Tecnologias Educacionais e Mídias Culturais [GLIC1019|EAD|01];EAD
-tut1070;Gilliard da Silva Alves;2024-1|GINF1115|EAD|01;Algoritmos e Programação [GINF1115|EAD|01];EAD
 tut1117;Priscila Lopes d'Avila Borges;2024-1|GDLH0008|EAD|01;Etnologia Brasil-Populações Indígenas e Afrodescendentes [GDLH0008|EAD|01];EAD
 tut1041;Sandro Rafael de Lima;2024-1|GCSA1040|EAD|01;Licitações e Contratos [GCSA1040|EAD|01];EAD
 tut1077;Jorge Kenedy Almeida Silva;2024-1|GDEP0010|EAD|01;Laboratório de Física [GDEP0010|EAD|01];EAD
 tut1075;Angela Paula Zão Bastos;2024-1|GADM1098|EAD|01;Startups, Inovação e Métodos Ágeis [GADM1098|EAD|01];EAD
 tut1095;Ricardo Ferreira Martins;2024-1|GGHO0007|EAD|01;Gestão de Resíduos Sólidos em Saúde [GGHO0007|EAD|01];EAD
 tut1057;Yan Inácio da Silva;2024-1|GDEF0040|EAD|01;Fundamentos da Educação Física [GDEF0040|EAD|01];EAD
+tut1121;Carlos Leonardo Loureiro Cardoso;2024-1|GDIR1189|EAD|01;Registro de Notas e Protestos [GDIR1189|EAD|01];EAD
+tut1032;Monica Eugenia da Silva;2024-1|GSER1041|EAD|01;Fund Históricos Teóricos Met do Ser Soc (Contemporâneo) [GSER1041|EAD|01];EAD
 tut1090;Celina Maria Frias Leal Martins;2024-1|GCSA1010|EAD|03;Fundamentos da Gestão [GCSA1010|EAD|03];EAD
 tut1124;Carlos Henrique Pereira de Souza;2024-1|GDLH0010|EAD|01;Mercantilismo, Estados e Revoluções na Europa Moderna [GDLH0010|EAD|01];EAD
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|GADM1038|EAD|01;Modelagem Organizacional [GADM1038|EAD|01];EAD
@@ -242,7 +245,6 @@ tut1090;Celina Maria Frias Leal Martins;2024-1|GCSA1046|EAD|01;Auditoria no Seto
 tut1085;Everton Santos Vasconcelos;2024-1|GCOB1036|EAD|01;Contabilidade e Análise de Custos [GCOB1036|EAD|01];EAD
 tut1045;Ana Caroline dos Santos Gimenes Machado;2024-1|GSER1098|EAD|01;Fundamentos Éticos e Filosóficos do Serviço Social [GSER1098|EAD|01];EAD
 tut1075;Angela Paula Zão Bastos;2024-1|GDMK0015|EAD|01;Inovação, Criatividade e Métodos Ágeis [GDMK0015|EAD|01];EAD
-tut1045;Ana Caroline dos Santos Gimenes Machado;2024-1|GSER1054|EAD|01;Projeto de Investigação em Serviço Social [GSER1054|EAD|01];EAD
 tut1094;Carla Castilho Ferreira Bastos;2024-1|GINS1029|EAD|02;Raciocínio Lógico [GINS1029|EAD|02];EAD
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|GADM1097|EAD|01;Comércio Eletrônico [GADM1097|EAD|01];EAD
 tut1054;Rafael Rizzaro de Almeida;2024-1|GMKT1072|EAD|01;Marketing de Vendas [GMKT1072|EAD|01];EAD
@@ -251,7 +253,6 @@ tut1047;Ricardo Cavalcanti Lavandier;2024-1|GGHO0010|EAD|01;Gestão da Qualidade
 tut1083;Marcelo Vasques De Oliveira;2024-1|GINF1047|EAD|01;Qualidade Software [GINF1047|EAD|01];EAD
 tut1009;Fernando Torres de Andrade;2024-1|GCSA1047|EAD|01;Formação Social, Econômica e Política do Brasil [GCSA1047|EAD|01];EAD
 tut1061;Brayan Lima Cordeiro;2024-1|GCSA1069|EAD|03;Liderança de Equipes [GCSA1069|EAD|03];EAD
-tut1083;Marcelo Vasques De Oliveira;2024-1|GINF1116|EAD|01;Fundamentos de Segurança da Informação [GINF1116|EAD|01];EAD
 tut1012;Rosangela Godinho Loureiro;2024-1|GMKT1048|EAD|01;Formação de Preço e Estrutura de Custos [GMKT1048|EAD|01];EAD
 tut1039;Patricia Paes de Albuquerque;2024-1|GPED1117|EAD|01;Prática Pedagógica Integradora I [GPED1117|EAD|01];EAD
 tut1042;Natalia Joana Silva de Oliveira;2024-1|GADS1057|EAD|01;Sistemas de Informação para Gestão [GADS1057|EAD|01];EAD
@@ -265,12 +266,12 @@ tut1079;Aleciano Santana de Souza;2024-1|GCOB1047|EAD|01;Análise de Demonstraç
 tut1030;Flora Thamiris Rodrigues Bittencourt;2024-1|GCSA1068|EAD|01;Gestão Contemporânea [GCSA1068|EAD|01];EAD
 tut1012;Rosangela Godinho Loureiro;2024-1|GLET1036|EAD|01;Produção do Texto Argumentativo [GLET1036|EAD|01];EAD
 tut1020;Renata de Oliveira Batista Rodrigues;2024-1|GDLL0019|EAD|01;Literatura Portuguesa [GDLL0019|EAD|01];EAD
-tut1057;Yan Inácio da Silva;2024-1|GEAD0218|EAD|01;Aprendizagem e Desenvolvimento Motor [GEAD0218|EAD|01];EAD
 tut1099;Rodolfo Velasque Freitas de Oliveira;2024-1|GDEF0047|EAD|01;Medidas e Avaliação em Educação Física [GDEF0047|EAD|01];EAD
 tut1024;Davi dos Santos Marques;2024-1|GCOB1074|EAD|01;Contabilidade Avançada [GCOB1074|EAD|01];EAD
 tut1041;Sandro Rafael de Lima;2024-1|GADM1075|EAD|01;Gestão da Inovação [GADM1075|EAD|01];EAD
 tut1116;Felipe Akira Miasato;2024-1|GGHO0003|EAD|01;Primeiros Socorros [GGHO0003|EAD|01];EAD
 tut1047;Ricardo Cavalcanti Lavandier;2024-1|GDAI0025|EAD|01;Química Geral [GDAI0025|EAD|01];EAD
+tut1033;Thamires da Silva Ribeiro;2024-1|GSER1099|EAD|01;Projetos Integradores em Serviço Social [GSER1099|EAD|01];EAD
 tut1039;Patricia Paes de Albuquerque;2024-1|GLIC1051|EAD|01;Prática Pedagógica Integradora III [GLIC1051|EAD|01];EAD
 tut1108;Raissa Lyra de Paiva Alves;2024-1|GGRH1050|EAD|01;Avaliação de Desempenho [GGRH1050|EAD|01];EAD
 tut1114;Mirelle de Andrade;2024-1|GGAM1019|EAD|01;Gestão Ambiental [GGAM1019|EAD|01];EAD
@@ -294,6 +295,7 @@ tut1097;Gisele Teixeira Saleiro;2024-1|GDAI0009|EAD|01;Equações Diferenciais e
 soc0025;Lidia Alice Medeiros;2024-1|GPED1133|EAD|09;Seminário de Pesquisa em Educação [GPED1133|EAD|09];EAD
 tut1016;Vinicius Martins de Mello;2024-1|GADS1050|EAD|01;Sistemas Operacionais [GADS1050|EAD|01];EAD
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|GCSA1072|EAD|01;Modelagem Organizacional [GCSA1072|EAD|01];EAD
+tut1068;Diego Augusto Rivas dos Santos;2024-1|GSER1043|EAD|01;Serv Soc e a Política da Educação, Cri e Adolescente [GSER1043|EAD|01];EAD
 tut1085;Everton Santos Vasconcelos;2024-1|GCSA1056|EAD|01;Contabilidade Geral [GCSA1056|EAD|01];EAD
 tut1077;Jorge Kenedy Almeida Silva;2024-1|GADS1038|EAD|01;Estatística [GADS1038|EAD|01];EAD
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|GADS1045|EAD|01;Ferramentas de Desenvolvimento Web [GADS1045|EAD|01];EAD
@@ -303,15 +305,16 @@ tut1011;Andre Luiz Bernardo Storino;2024-1|GINS1035|EAD|01;Filosofia [GINS1035|E
 tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|GGAM1023|EAD|01;Hidráulica Aplicada [GGAM1023|EAD|01];EAD
 tut1071;Wallace da Silva Carvalho;2024-1|GDEP0012|EAD|01;Metrologia [GDEP0012|EAD|01];EAD
 tut1054;Rafael Rizzaro de Almeida;2024-1|GCSA1036|EAD|01;Tecnologia de Comunicação e de Informação [GCSA1036|EAD|01];EAD
+tut1121;Carlos Leonardo Loureiro Cardoso;2024-1|GDIR1188|EAD|01;Registro de Títulos e Documentos [GDIR1188|EAD|01];EAD
 tut1108;Raissa Lyra de Paiva Alves;2024-1|GGRH1046|EAD|01;Gestão por Competência [GGRH1046|EAD|01];EAD
 tut1094;Carla Castilho Ferreira Bastos;2024-1|GCSA1057|EAD|01;Matemática Financeira [GCSA1057|EAD|01];EAD
-tut1119;Luciana de Souza Lobato;2024-1|GDPE0001|EAD|01;Legislação: educacional e escolar [GDPE0001|EAD|01];EAD
 tut1068;Diego Augusto Rivas dos Santos;2024-1|GSER1042|EAD|01;Desenvolvimento, Questão Social e Movimentos Sociais [GSER1042|EAD|01];EAD
 tut1071;Wallace da Silva Carvalho;2024-1|GDAI0023|EAD|01;Eletrônica Analógica Aplicada [GDAI0023|EAD|01];EAD
 ser1014;Newvone Ferreira da Costa;2024-1|GSER1044|EAD|01;Serviço Social e Política de Assistência Social e Família [GSER1044|EAD|01];EAD
 tut1061;Brayan Lima Cordeiro;2024-1|GADM1073|EAD|01;Desenvolvimento e Comportamento Humano nas Organizações [GADM1073|EAD|01];EAD
 tut1124;Carlos Henrique Pereira de Souza;2024-1|GDLH0011|EAD|01;Europa: da Revolução Francesa ao Neocolonialismo [GDLH0011|EAD|01];EAD
 tut1068;Diego Augusto Rivas dos Santos;2024-1|GSER1105|EAD|01;Administração e Planejamento em Serviço Social [GSER1105|EAD|01];EAD
+tut1093;Eveline Mamede Dantas;2024-1|GDIR1154|EAD|01;Legislação Empresarial e Previdenciária [GDIR1154|EAD|01];EAD
 tut1016;Vinicius Martins de Mello;2024-1|GRED1010|EAD|01;Projeto e Desempenho de Redes [GRED1010|EAD|01];EAD
 edu2028;Maria Aparecida dos Santos Siqueira;2024-1|GINS1001|EAD|01;Metodologia do Trabalho Acadêmico e Científico [GINS1001|EAD|01];EAD
 tut1061;Brayan Lima Cordeiro;2024-1|GMKT1047|EAD|01;Projeto Integrador II [GMKT1047|EAD|01];EAD
@@ -327,6 +330,7 @@ tut1077;Jorge Kenedy Almeida Silva;2024-1|GEST1005|EAD|01;Métodos Quantitativos
 tut1086;Bruno Taranto Malheiros;2024-1|GPED1047|EAD|01;Aprofundamento no Estudo da Didática [GPED1047|EAD|01];EAD
 tut1096;Leonardo Rodrigues Pereira;2024-1|GDEP0014|EAD|01;Desenho Técnico II [GDEP0014|EAD|01];EAD
 tut1088;Roberta Andréa dos Santos Colombo;2024-1|GDLL0018|EAD|01;Período Composto Sintaxe [GDLL0018|EAD|01];EAD
+tut1113;Christine Soares de Oliveira Lopes da Cruz;2024-1|GCSA1078|EAD|01;Legislação Empresarial e Tributária [GCSA1078|EAD|01];EAD
 tut1089;Vanessa Fernandes dos Santos;2024-1|GDLO0004|EAD|01;Movimentação e Armazenagem [GDLO0004|EAD|01];EAD
 tut1105;Daniele Vaz Fernandes;2024-1|GINS1004|EAD|04;Estudos Socioantropológicos [GINS1004|EAD|04];EAD
 tut1090;Celina Maria Frias Leal Martins;2024-1|GDLH0013|EAD|01;Oriente Próximo e África na Antiguidade [GDLH0013|EAD|01];EAD
@@ -373,6 +377,7 @@ tut1042;Natalia Joana Silva de Oliveira;2024-1|GADM1043|EAD|01;Sistema de Inform
 edu2028;Maria Aparecida dos Santos Siqueira;2024-1|GINS1001|EAD|04;Metodologia do Trabalho Acadêmico e Científico [GINS1001|EAD|04];EAD
 tut1014;Rosemeri da Silva Paixão;2024-1|GADM1042|EAD|02;Gestão de Recursos Humanos [GADM1042|EAD|02];EAD
 tut1047;Ricardo Cavalcanti Lavandier;2024-1|GDEP0003|EAD|01;Química Geral e Inorgânica [GDEP0003|EAD|01];EAD
+tut1033;Thamires da Silva Ribeiro;2024-1|GSER1108|EAD|01;Supervisão Acadêmica e Oficina de Formação Profissiona - 160h [GSER1108|EAD|01];EAD
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|GGRH1049|EAD|01;Gestão Estratégica de Pessoas [GGRH1049|EAD|01];EAD
 tut1038;Carlos Alberto de Oliveira;2024-1|GRED1001|EAD|01;Projeto Integrador I [GRED1001|EAD|01];EAD
 tut1030;Flora Thamiris Rodrigues Bittencourt;2024-1|GFIN1003|EAD|01;Projeto Integrador III [GFIN1003|EAD|01];EAD
@@ -389,6 +394,7 @@ tut1038;Carlos Alberto de Oliveira;2024-1|GADS1039|EAD|01;Projeto Integrador I [
 tut1072;Flavia Alexandrina Coelho Marcos;2024-1|GINS1041|EAD|05;Empreendedorismo e Inovação [GINS1041|EAD|05];EAD
 tut1014;Rosemeri da Silva Paixão;2024-1|GADM1042|EAD|03;Gestão de Recursos Humanos [GADM1042|EAD|03];EAD
 tut1085;Everton Santos Vasconcelos;2024-1|GCOB1035|EAD|04;Contabilidade Básica [GCOB1035|EAD|04];EAD
+tut1093;Eveline Mamede Dantas;2024-1|GCSA1079|EAD|01;Legislação Trabalhista e Previdenciária [GCSA1079|EAD|01];EAD
 tut1032;Monica Eugenia da Silva;2024-1|GSER1039|EAD|01;Ética Profissional em Serviço Social [GSER1039|EAD|01];EAD
 tut1118;Natália Xavier Pereira da Costa;2024-1|GPED1054|EAD|01;Fundamentos da Educação Infantil [GPED1054|EAD|01];EAD
 tut1032;Monica Eugenia da Silva;2024-1|GSER1040|EAD|01;Processo de Trabalho em Serviço Social [GSER1040|EAD|01];EAD
@@ -454,6 +460,7 @@ tut1086;Bruno Taranto Malheiros;2024-1|GPED1053|EAD|01;Currículos e Programas [
 tut1041;Sandro Rafael de Lima;2024-1|GCSA1042|EAD|01;Governança na Gestão Pública [GCSA1042|EAD|01];EAD
 tut1010;Alex dos Prazeres Machado;2024-1|GEAD0002|EAD|01;Cálculo I [GEAD0002|EAD|01];EAD
 tut1084;Flávia Costa Machado;2024-1|GDIR1180|EAD|01;Direito das Famílias e Sucessões [GDIR1180|EAD|01];EAD
+tut1068;Diego Augusto Rivas dos Santos;2024-1|GSER1103|EAD|01;Metodologia da Pesquisa em Serviço Social [GSER1103|EAD|01];EAD
 tut1077;Jorge Kenedy Almeida Silva;2024-1|GDEP0004|EAD|01;Física I [GDEP0004|EAD|01];EAD
 tut1085;Everton Santos Vasconcelos;2024-1|GCOB1036|EAD|02;Contabilidade e Análise de Custos [GCOB1036|EAD|02];EAD
 tut1059;Marcelo Jacinto de Abreu;2024-1|GPSI1074|EAD|01;Psicologia Social [GPSI1074|EAD|01];EAD
@@ -475,7 +482,6 @@ tut1024;Davi dos Santos Marques;2024-1|GCOB1044|EAD|01;Análise de Cenários Eco
 tut1091;Paulo Roberto Feitosa Alves;2024-1|GDMK0011|EAD|01;Gestão de Canais de Distribuição [GDMK0011|EAD|01];EAD
 tut1084;Flávia Costa Machado;2024-1|GDPU0019|EAD|01;Métodos Alternativos de Solução de Conflitos [GDPU0019|EAD|01];EAD
 tut1043;Raphael Fernandes Gomes;2024-1|GDPU0024|EAD|01;Temas contemporâneos de Segurança Pública [GDPU0024|EAD|01];EAD
-soc0025;Lidia Alice Medeiros;2024-1|GPED1133|EAD|01;Seminário de Pesquisa em Educação [GPED1133|EAD|01];EAD
 tut1070;Gilliard da Silva Alves;2024-1|GADS1059|EAD|01;Tecnologia da Informação [GADS1059|EAD|01];EAD
 tut1088;Roberta Andréa dos Santos Colombo;2024-1|GPED1057|EAD|01;Metodologia do Ensino da Língua Portuguesa [GPED1057|EAD|01];EAD
 tut1041;Sandro Rafael de Lima;2024-1|GADM1071|EAD|01;Plano de Negócios [GADM1071|EAD|01];EAD
@@ -516,6 +522,7 @@ tut1110;Thuanne Figueiredo Baptista;2024-1|GADM1100|EAD|02;Comportamento Humano 
 tut1085;Everton Santos Vasconcelos;2024-1|GCOB1035|EAD|05;Contabilidade Básica [GCOB1035|EAD|05];EAD
 tut1107;Vanessa Sartori Rodi;2024-1|GEAD0040|ONLINE|01;Métodos Visuais e Perspectiva II [GEAD0040|ONLINE|01];EAD
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|GEAD0050|ONLINE|01;Drenagem Linfática [GEAD0050|ONLINE|01];EAD
+tut1057;Yan Inácio da Silva;2024-1|GEAD0076|ONLINE|01;Lutas [GEAD0076|ONLINE|01];EAD
 tut1102;Maria da Conceição Avelino Dias;2024-1|GEAD0308|ONLINE|01;Cuidados Farmacêuticos na Atenção Básica e Práticas Integrativas [GEAD0308|ONLINE|01];EAD
 tut1065;Phillipe Augusto Ferreira Rodrigues;2024-1|GEAD0073|ONLINE|01;Esportes III - Esportes de Marca e Expressão [GEAD0073|ONLINE|01];EAD
 tut1075;Angela Paula Zão Bastos;2024-1|GEAD0085|ONLINE|01;Governança Corporativa [GEAD0085|ONLINE|01];EAD
@@ -523,6 +530,7 @@ tut1064;Nielson Athayde de Souza;2024-1|GEAD0064|ONLINE|01;Psicologia, Cultura e
 tut1057;Yan Inácio da Silva;2024-1|GEAD0075|ONLINE|01;Jogo [GEAD0075|ONLINE|01];EAD
 tut1114;Mirelle de Andrade;2024-1|GEAD0310|ONLINE|01;Projeto Urbano II - Parcelamento [GEAD0310|ONLINE|01];EAD
 tut1054;Rafael Rizzaro de Almeida;2024-1|GEAD0183|ONLINE|01;Eventos e Entretenimento [GEAD0183|ONLINE|01];EAD
+tut1113;Christine Soares de Oliveira Lopes da Cruz;2024-1|GEAD0135|ONLINE|01;Direito do Trabalho I [GEAD0135|ONLINE|01];EAD
 tut1075;Angela Paula Zão Bastos;2024-1|GEAD0177|ONLINE|01;Metodologias Ágeis [GEAD0177|ONLINE|01];EAD
 tut1093;Eveline Mamede Dantas;2024-1|GEAD0114|ONLINE|01;Nutrição Humana [GEAD0114|ONLINE|01];EAD
 tut1093;Eveline Mamede Dantas;2024-1|GEAD0291|ONLINE|01;Tecnologia dos Alimentos [GEAD0291|ONLINE|01];EAD
@@ -626,7 +634,6 @@ tut1038;Carlos Alberto de Oliveira;2024-1|GEAD0174|ONLINE|01;Estatística Comput
 tut1009;Fernando Torres de Andrade;2024-1|GEAD0015|ONLINE|01;Fotografia Digital [GEAD0015|ONLINE|01];EAD
 tut1112;Julio Cesar de Souza Loureiro;2024-1|GEAD0272|ONLINE|01;Estradas: Sistemas de Transportes [GEAD0272|ONLINE|01];EAD
 tut1084;Flávia Costa Machado;2024-1|GEAD0171|ONLINE|01;Direito Penal III [GEAD0171|ONLINE|01];EAD
-tut1099;Rodolfo Velasque Freitas de Oliveira;2024-1|GEAD0065|ONLINE|01;Fisiologia do Sistema Nervoso, Endócrino e Reprodutor [GEAD0065|ONLINE|01];EAD
 tut1013;Glaucia Maria Guerra Ferreira;2024-1|GEAD0059|ONLINE|01;Emoção, Percepção e Motivação [GEAD0059|ONLINE|01];EAD
 tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|GEAD0328|ONLINE|01;Elementos de Máquinas [GEAD0328|ONLINE|01];EAD
 tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|GEAD0330|ONLINE|01;Processos de Soldagem [GEAD0330|ONLINE|01];EAD
@@ -643,6 +650,7 @@ tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|GEAD0130|ONLINE|
 tut1114;Mirelle de Andrade;2024-1|GEAD0199|ONLINE|01;Técnicas Gráficas I [GEAD0199|ONLINE|01];EAD
 tut1116;Felipe Akira Miasato;2024-1|GEAD0288|ONLINE|01;Suporte Básico de Vida [GEAD0288|ONLINE|01];EAD
 tut1047;Ricardo Cavalcanti Lavandier;2024-1|GEAD0213|ONLINE|01;Química Orgânica II [GEAD0213|ONLINE|01];EAD
+tut1113;Christine Soares de Oliveira Lopes da Cruz;2024-1|GEAD0269|ONLINE|01;Direito do Trabalho II [GEAD0269|ONLINE|01];EAD
 tut1071;Wallace da Silva Carvalho;2024-1|GEAD0098|ONLINE|01;Físico-Química [GEAD0098|ONLINE|01];EAD
 tut1071;Wallace da Silva Carvalho;2024-1|GEAD0277|ONLINE|01;Circuitos Elétricos II [GEAD0277|ONLINE|01];EAD
 tut1043;Raphael Fernandes Gomes;2024-1|GEAD0134|ONLINE|01;Direito Civil II [GEAD0134|ONLINE|01];EAD
@@ -748,7 +756,6 @@ tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|GENG1119|ONLINE|01;Étic
 tut1029;Carolina Boucinha Martins;2024-1|GSAU1021|ONLINE|01;Bases Parasitológicas [GSAU1021|ONLINE|01];Online
 tut1094;Carla Castilho Ferreira Bastos;2024-1|GCSA1057|ONLINE|01;Matemática Financeira [GCSA1057|ONLINE|01];Online
 tut1011;Andre Luiz Bernardo Storino;2024-1|GPED1118|ONLINE|01;História da Educação Brasileira [GPED1118|ONLINE|01];Online
-tut1066;Wesley Pinto da Silva;2024-1|GCOB1062|ONLINE|01;Contabilidade Aplicada ao Setor Público [GCOB1062|ONLINE|01];Online
 tut1086;Bruno Taranto Malheiros;2024-1|GSAU1018|ONLINE|01;Gestão em Saúde [GSAU1018|ONLINE|01];Online
 tut1020;Renata de Oliveira Batista Rodrigues;2024-1|GPED1129|ONLINE|01;Prática Pedagógica Integradora IV [GPED1129|ONLINE|01];Online
 tut1071;Wallace da Silva Carvalho;2024-1|GDER0002|ONLINE|01;Eletrotécnica [GDER0002|ONLINE|01];Online
@@ -780,6 +787,7 @@ tut1010;Alex dos Prazeres Machado;2024-1|GINS1002|ONLINE|02;Raciocínio Lógico 
 tut1087;Marcio Simão de Vasconcellos;2024-1|GPED1058|ONLINE|01;Aprofundamento em Estudos Sócio-Filosóficos da Educação [GPED1058|ONLINE|01];Online
 tut1093;Eveline Mamede Dantas;2024-1|GDIR1166|ONLINE|01;Inovações do Direito [GDIR1166|ONLINE|01];Online
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|GFAR1050|ONLINE|01;Farmacobotânica e Extratos Vegetais [GFAR1050|ONLINE|01];Online
+tut1113;Christine Soares de Oliveira Lopes da Cruz;2024-1|GDIR1001|ONLINE|01;Legislação Empresarial e Tributária [GDIR1001|ONLINE|01];Online
 tut1108;Raissa Lyra de Paiva Alves;2024-1|GGRH1050|ONLINE|01;Avaliação de Desempenho [GGRH1050|ONLINE|01];Online
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|GADS1045|ONLINE|01;Ferramentas de Desenvolvimento Web [GADS1045|ONLINE|01];Online
 tut1102;Maria da Conceição Avelino Dias;2024-1|GFTA1037|ONLINE|01;Interpretação de Sinais Biomédicos [GFTA1037|ONLINE|01];Online
@@ -788,14 +796,12 @@ tut1013;Glaucia Maria Guerra Ferreira;2024-1|GLIC1021|ONLINE|01;Educação Inclu
 tut1105;Daniele Vaz Fernandes;2024-1|GPED1127|ONLINE|01;Educação, Envelhecimento e Formação Humana [GPED1127|ONLINE|01];Online
 tut1011;Andre Luiz Bernardo Storino;2024-1|GSER1129|ONLINE|01;Direitos Humanos [GSER1129|ONLINE|01];Online
 tut1061;Brayan Lima Cordeiro;2024-1|GMKT1042|ONLINE|01;Projeto Integrador I [GMKT1042|ONLINE|01];Online
-tut1053;Paulo Rodrigo Martins Ramalho;2024-1|GBIO1057|ONLINE|01;Geologia e Paleontologia [GBIO1057|ONLINE|01];Online
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|GDBI0006|ONLINE|01;Anatomia dos Sistemas [GDBI0006|ONLINE|01];Online
 tut1088;Roberta Andréa dos Santos Colombo;2024-1|GPED1057|ONLINE|01;Metodologia do Ensino da Língua Portuguesa [GPED1057|ONLINE|01];Online
 tut1116;Felipe Akira Miasato;2024-1|GENF1151|ONLINE|01;Gerenciamento do Processo de Trabalho em Enfermagem [GENF1151|ONLINE|01];Online
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|GDBI0019|ONLINE|01;Parasitologia [GDBI0019|ONLINE|01];Online
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|GBBI1032|ONLINE|01;Biossegurança [GBBI1032|ONLINE|01];Online
 tut1029;Carolina Boucinha Martins;2024-1|GSAU1062|ONLINE|01;Epidemiologia [GSAU1062|ONLINE|01];Online
-tut1066;Wesley Pinto da Silva;2024-1|GCOB1067|ONLINE|01;Perícia Contábil - Teoria e Prática [GCOB1067|ONLINE|01];Online
 tut1061;Brayan Lima Cordeiro;2024-1|GMKT1047|ONLINE|01;Projeto Integrador II [GMKT1047|ONLINE|01];Online
 tut1097;Gisele Teixeira Saleiro;2024-1|GDEP0017|ONLINE|01;Tecnologia da Informação e Sistemas de Produção [GDEP0017|ONLINE|01];Online
 tut1130;Wagner Fernandes dos Santos;2024-1|GCOB1073|ONLINE|01;Contabilidade Gerencial [GCOB1073|ONLINE|01];Online
@@ -877,6 +883,7 @@ tut1108;Raissa Lyra de Paiva Alves;2024-1|GADM1083|ONLINE|01;Tópicos Especiais 
 tut1116;Felipe Akira Miasato;2024-1|GENF1152|ONLINE|01;Pesquisa Científica em Enfermagem I [GENF1152|ONLINE|01];Online
 tut1084;Flávia Costa Machado;2024-1|GDPU0013|ONLINE|01;Direito Penal IV [GDPU0013|ONLINE|01];Online
 tut1112;Julio Cesar de Souza Loureiro;2024-1|GPRO1046|ONLINE|01;Fundamentos da Logística [GPRO1046|ONLINE|01];Online
+tut1093;Eveline Mamede Dantas;2024-1|GCSA1079|ONLINE|01;Legislação Trabalhista e Previdenciária [GCSA1079|ONLINE|01];Online
 tut1051;Carla Monteiro Leal;2024-1|GFAR1062|ONLINE|01;Gestão das Empresas Farmacêuticas [GFAR1062|ONLINE|01];Online
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|GSAU1061|ONLINE|01;Psicologia em Saúde [GSAU1061|ONLINE|01];Online
 tut1086;Bruno Taranto Malheiros;2024-1|GLIC1034|ONLINE|01;Políticas Públicas Educacionais [GLIC1034|ONLINE|01];Online
@@ -903,7 +910,6 @@ tut1073;Patrícia Guimarães Monteiro de Freitas;2024-1|GGAM1023|ONLINE|01;Hidr�
 tut1020;Renata de Oliveira Batista Rodrigues;2024-1|GPED1129|ONLINE|02;Prática Pedagógica Integradora IV [GPED1129|ONLINE|02];Online
 tut1096;Leonardo Rodrigues Pereira;2024-1|GARQ1068|ONLINE|01;Ética e Planejamento Profissional [GARQ1068|ONLINE|01];Online
 tut1010;Alex dos Prazeres Machado;2024-1|GDLM0007|ONLINE|01;Cálculo numérico aplicado [GDLM0007|ONLINE|01];Online
-tut1124;Carlos Henrique Pereira de Souza;2024-1|GDLH0012|ONLINE|01;História do Brasil Império [GDLH0012|ONLINE|01];Online
 tut1029;Carolina Boucinha Martins;2024-1|GDBI0008|ONLINE|01;Sistemática e Organografia Vegetal [GDBI0008|ONLINE|01];Online
 soc0025;Lidia Alice Medeiros;2024-1|GCOM1048|ONLINE|01;Ciências Políticas e Sociais Aplicadas [GCOM1048|ONLINE|01];Online
 tut1094;Carla Castilho Ferreira Bastos;2024-1|GINS1029|ONLINE|01;Raciocínio Lógico [GINS1029|ONLINE|01];Online
@@ -930,7 +936,6 @@ tut1030;Flora Thamiris Rodrigues Bittencourt;2024-1|GADM1078|ONLINE|01;Estratég
 tut1088;Roberta Andréa dos Santos Colombo;2024-1|GPED1120|ONLINE|01;Literatura Infanto Juvenil [GPED1120|ONLINE|01];Online
 tut1085;Everton Santos Vasconcelos;2024-1|GCSA1056|ONLINE|01;Contabilidade Geral [GCSA1056|ONLINE|01];Online
 tut1042;Natalia Joana Silva de Oliveira;2024-1|GADM1085|ONLINE|01;Sistema de Informação Gerencial [GADM1085|ONLINE|01];Online
-tut1079;Aleciano Santana de Souza;2024-1|GCOB1066|ONLINE|01;Noções de Atuária [GCOB1066|ONLINE|01];Online
 tut1116;Felipe Akira Miasato;2024-1|GGHO0003|ONLINE|01;Primeiros Socorros [GGHO0003|ONLINE|01];Online
 tut1038;Carlos Alberto de Oliveira;2024-1|GADS1051|ONLINE|01;Fundamentos de Redes de Computadores [GADS1051|ONLINE|01];Online
 tut1061;Brayan Lima Cordeiro;2024-1|GCSA1069|ONLINE|01;Liderança de Equipes [GCSA1069|ONLINE|01];Online
@@ -941,7 +946,6 @@ tut1089;Vanessa Fernandes dos Santos;2024-1|GCSA1055|ONLINE|01;Teorias da Admini
 tut1134;Mariana de Oliveira Galvão;2024-1|GHBD0033|ONLINE|01;Técnica Dietética [GHBD0033|ONLINE|01];Online
 tut1121;Carlos Leonardo Loureiro Cardoso;2024-1|GINS1030|ONLINE|01;Cidadania [GINS1030|ONLINE|01];Online
 tut1013;Glaucia Maria Guerra Ferreira;2024-1|GPED1001|ONLINE|01;Libras [GPED1001|ONLINE|01];Online
-tut1029;Carolina Boucinha Martins;2024-1|GDBI0013|ONLINE|01;Zoologia dos Deuterostomados [GDBI0013|ONLINE|01];Online
 tut1114;Mirelle de Andrade;2024-1|GHBD0004|ONLINE|01;Conforto Ambiental [GHBD0004|ONLINE|01];Online
 tut1065;Phillipe Augusto Ferreira Rodrigues;2024-1|GHBD0035|ONLINE|01;Avaliação Nutricional [GHBD0035|ONLINE|01];Online
 tut1010;Alex dos Prazeres Machado;2024-1|GINS1002|ONLINE|01;Raciocínio Lógico [GINS1002|ONLINE|01];Online
@@ -970,6 +974,7 @@ tut1059;Marcelo Jacinto de Abreu;2024-1|GPSI1117|ONLINE|01;Tópicos Especiais em
 tut1090;Celina Maria Frias Leal Martins;2024-1|GADM1087|ONLINE|02;Jogos Empresariais [GADM1087|ONLINE|02];Online
 tut1115;Licia Laura Craveiro de Souza Queiroz;2024-1|GCOB1046|ONLINE|01;Mercado de Capitais [GCOB1046|ONLINE|01];Online
 tut1119;Luciana de Souza Lobato;2024-1|GPED1134|ONLINE|01;Estágio Supervisionado em Gestão Escolar [GPED1134|ONLINE|01];Online
+tut1113;Christine Soares de Oliveira Lopes da Cruz;2024-1|GCSA1078|ONLINE|01;Legislação Empresarial e Tributária [GCSA1078|ONLINE|01];Online
 tut1119;Luciana de Souza Lobato;2024-1|GPED1183|ONLINE|01;Estágio Supervisionado em Ensino Médio [GPED1183|ONLINE|01];Online
 tut1038;Carlos Alberto de Oliveira;2024-1|GINT0012|ONLINE|01;Sistemas Distribuídos [GINT0012|ONLINE|01];Online
 tut1120;Carla Andressa Pedron;2024-1|GHBD0029|ONLINE|01;Controle e Aprendizado Motor [GHBD0029|ONLINE|01];Online
@@ -986,6 +991,7 @@ tut1064;Nielson Athayde de Souza;2024-1|PPS23104|BS|N|PSI0401N;Políticas de Sa�
 tut1043;Raphael Fernandes Gomes;2024-1|PDR23101|BS|M|JUR0102M;Determinantes socio-históricos do direito [PDR23101|BS|M|JUR0102M];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|CG|M|BME0402M;Análise Ambiental e de Alimentos [PBM21104|CG|M|BME0402M];Presencial (TUTOR)
 tut1114;Mirelle de Andrade;2024-1|PAR20207|BS|M|ARQ0701M;Cidade e Tecnologia [PAR20207|BS|M|ARQ0701M];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|BS|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0301N];Presencial (TUTOR)
 tut1118;Natália Xavier Pereira da Costa;2024-1|PLE20.105|BS|M|EDF0501M;Aprendendo a Ensinar [PLE20.105|BS|M|EDF0501M];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21107|CG|N|BME0701N;Biotecnologia [PBM21107|CG|N|BME0701N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23102|BS|N|ADS0201N;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BS|N|ADS0201N];Presencial (TUTOR)
@@ -993,6 +999,7 @@ tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|CG|N|ENF0501N;Cuidad
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BS|N|ENG0405N;Liderança e Gestão de Equipes [PCI23104|BS|N|ENG0405N];Presencial (TUTOR)
 tut1051;Carla Monteiro Leal;2024-1|PFA21107|BS|N|FAR0701N;Desenvolvimento de Produtos Farmacêuticos [PFA21107|BS|N|FAR0701N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23102|BG|M|ADS0201M;Desenvolvimento de Software para Internet (Back-end) [PAS23102|BG|M|ADS0201M];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|CG|M|JUR0301M;As ciências criminais e sua interface com a prática [PDR23103|CG|M|JUR0301M];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21105|BS|M|SAU0036M;Biomedicina Estética [PBM21105|BS|M|SAU0036M];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS21205|BS|T|ADS0501T;Infraestrutura e Arquiteturas para Suporte as Aplicações [PAS21205|BS|T|ADS0501T];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21105|BS|N|SAU0047N;Biomedicina Estética [PBM21105|BS|N|SAU0047N];Presencial (TUTOR)
@@ -1013,6 +1020,7 @@ tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|CG|M|BME0401M;Análise Ambient
 tut1064;Nielson Athayde de Souza;2024-1|PPS23103|CG|M|PSI0302M;Fenômenos Sociais e Coletivos [PPS23103|CG|M|PSI0302M];Presencial (TUTOR)
 tut1056;João Gabriel Miranda;2024-1|PGA23102|BG|M|GAS0201M;Cozinha Brasileira e das Américas [PGA23102|BG|M|GAS0201M];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BG|N|ENG0401N;Liderança e Gestão de Equipes [PCI23104|BG|N|ENG0401N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR21105|BS|M|JUR0501M;Instrumentalização do processo na solução dos conflitos privados [PDR21105|BS|M|JUR0501M];Presencial (TUTOR)
 tut1080;Jonatas Aracy Gomes de Sousa;2024-1|PFT23103|CG|N|FTO0301N;Saúde e Homeostase [PFT23103|CG|N|FTO0301N];Presencial (TUTOR)
 tut1134;Mariana de Oliveira Galvão;2024-1|PNU21104|BS|M|NUT0401M;Qualidade na produção de Alimentos [PNU21104|BS|M|NUT0401M];Presencial (TUTOR)
 tut1023;Renata Peres dos Santos;2024-1|PCO21105|BS|N|COB0501N;Contabilidade Societária [PCO21105|BS|N|COB0501N];Presencial (TUTOR)
@@ -1081,6 +1089,7 @@ tut1057;Yan Inácio da Silva;2024-1|PBE23102|CG|M|BEF0201M;Interface das Prátic
 tut1103;Danielle Mendes da Silva Albuquerque;2024-1|POD23103|BS|I|ODO0301I;Diagnóstico e Saúde Coletiva [POD23103|BS|I|ODO0301I];Presencial (TUTOR)
 tut1093;Eveline Mamede Dantas;2024-1|PGA23103|BS|N|GAS0301N;Cozinha Internacional [PGA23103|BS|N|GAS0301N];Presencial (TUTOR)
 tut1109;Felipe de Oliveira Santos;2024-1|PBM21104|BS|M|BME0401M;Análise Ambiental e de Alimentos [PBM21104|BS|M|BME0401M];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR21105|CG|N|JUR0501N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|N|JUR0501N];Presencial (TUTOR)
 tut1120;Carla Andressa Pedron;2024-1|PFT21104|BS|M|FTO0401M;Manejo Clínico [PFT21104|BS|M|FTO0401M];Presencial (TUTOR)
 tut1089;Vanessa Fernandes dos Santos;2024-1|PRH23101|BS|N|GRH0101N;Cultura Organizacional [PRH23101|BS|N|GRH0101N];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI20206|CG|N|CIV0602N;Geotecnia [PCI20206|CG|N|CIV0602N];Presencial (TUTOR)
@@ -1126,6 +1135,8 @@ tut1024;Davi dos Santos Marques;2024-1|PAD23103|BS|M|CSA0006M;Finanças Empresar
 tut1091;Paulo Roberto Feitosa Alves;2024-1|PLO23101|CG|N|TLG0101N;Gestão de Suprimentos [PLO23101|CG|N|TLG0101N];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|N|PUB0202N;Sociedade, Consumo e Expressão [PJO23102|BS|N|PUB0202N];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21107|BS|M|ENF0701M;Enfermagem na Prática Clínica [PEM21107|BS|M|ENF0701M];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR21105|BS|N|JUR0502N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|BS|N|JUR0502N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|BS|M|JUR0301M;As ciências criminais e sua interface com a prática [PDR23103|BS|M|JUR0301M];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21105|BS|N|ENF0501N;Cuidados de enfermagem e seus fundamentos [PEM21105|BS|N|ENF0501N];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21106|BS|M|JUR0601M;Tutela Penal e Efetividade Processual das liberdades [PDR21106|BS|M|JUR0601M];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21104|BS|M|ENF0401M;Mecanismos de Defesa da Vida [PEM21104|BS|M|ENF0401M];Presencial (TUTOR)
@@ -1180,6 +1191,7 @@ tut1064;Nielson Athayde de Souza;2024-1|PPS211.106|BS|M|PSI0601M;Processos Clín
 tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|PPU23104|BS|M|PUB0401M;Mídia e Comportamento [PPU23104|BS|M|PUB0401M];Presencial (TUTOR)
 tut1043;Raphael Fernandes Gomes;2024-1|PDR23101|BS|N|JUR0102N;Determinantes socio-históricos do direito [PDR23101|BS|N|JUR0102N];Presencial (TUTOR)
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|PRH23103|BG|N|GRH0301N;Administração de Pessoal [PRH23103|BG|N|GRH0301N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR21105|CG|M|JUR0501M;Instrumentalização do processo na solução dos conflitos privados [PDR21105|CG|M|JUR0501M];Presencial (TUTOR)
 tut1098;Érika Cinegaglia Viz Leutwiler;2024-1|PPS211.105|CG|M|PSI0501M;Grupos e instituições [PPS211.105|CG|M|PSI0501M];Presencial (TUTOR)
 tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|N|ADS0301N;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|N|ADS0301N];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV22204|BS|N|BMV0401N;Sanidade Animal e Práticas Veterinárias [PMV22204|BS|N|BMV0401N];Presencial (TUTOR)
@@ -1188,6 +1200,7 @@ tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21104|BS|N|ENF0401N;Mecani
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|CG|M|ADS0101M;Desenvolvimento de Software para Internet (Front-end) [PAS23101|CG|M|ADS0101M];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC23104|CG|N|EST0401N;Terapias Holísticas [PEC23104|CG|N|EST0401N];Presencial (TUTOR)
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|PAD21105|BS|N|ADD0501N;Pessoas, Valores e Cultura Organizacional [PAD21105|BS|N|ADD0501N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|CG|N|JUR0302N;As ciências criminais e sua interface com a prática [PDR23103|CG|N|JUR0302N];Presencial (TUTOR)
 tut1071;Wallace da Silva Carvalho;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial (TUTOR)
 tut1054;Rafael Rizzaro de Almeida;2024-1|PJO23106|BS|N|SDG0301N;Produção Digital e Experiência do Usuário [PJO23106|BS|N|SDG0301N];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|N|PUB0201N;Sociedade, Consumo e Expressão [PJO23102|BS|N|PUB0201N];Presencial (TUTOR)
@@ -1205,6 +1218,7 @@ tut1084;Flávia Costa Machado;2024-1|PDR21106|CG|N|JUR0601N;Tutela Penal e Efeti
 tut1102;Maria da Conceição Avelino Dias;2024-1|PFA21106|BS|M|FAR0601M;Planejamento e Desenvolvimento de Fármacos [PFA21106|BS|M|FAR0601M];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23102|BG|N|BMV0201N;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BG|N|BMV0201N];Presencial (TUTOR)
 tut1064;Nielson Athayde de Souza;2024-1|PPS23104|CG|N|PSI0401N;Políticas de Saúde e Atenção Psicossocial [PPS23104|CG|N|PSI0401N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR21105|BS|N|JUR0501N;Instrumentalização do processo na solução dos conflitos privados [PDR21105|BS|N|JUR0501N];Presencial (TUTOR)
 tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BG|M|ADS0301M;Desenvolvimento de Aplicativos Mobile [PAS23103|BG|M|ADS0301M];Presencial (TUTOR)
 tut1061;Brayan Lima Cordeiro;2024-1|PJO23102|BS|M|PUB0202M;Sociedade, Consumo e Expressão [PJO23102|BS|M|PUB0202M];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS23101|BG|N|ADS0102N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|BG|N|ADS0102N];Presencial (TUTOR)
@@ -1212,6 +1226,7 @@ tut1090;Celina Maria Frias Leal Martins;2024-1|PAD23101|BS|M|CSA0003M;Empreended
 tut1024;Davi dos Santos Marques;2024-1|PCO21107|CG|N|COB0701N;Auditoria e Planejamento tributário [PCO21107|CG|N|COB0701N];Presencial (TUTOR)
 tut1090;Celina Maria Frias Leal Martins;2024-1|PAD23101|CG|M|CSA0003M;Empreendedorismo e Sustentabilidade [PAD23101|CG|M|CSA0003M];Presencial (TUTOR)
 tut1084;Flávia Costa Machado;2024-1|PDR21104|BS|N|JUR0401N;Direitos Fundamentais, org política do Brasil e sua relação com outros países [PDR21104|BS|N|JUR0401N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|CG|N|JUR0301N;As ciências criminais e sua interface com a prática [PDR23103|CG|N|JUR0301N];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BS|N|ENG0404N;Liderança e Gestão de Equipes [PCI23104|BS|N|ENG0404N];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23103|BS|N|BMV0301N;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BS|N|BMV0301N];Presencial (TUTOR)
 tut1120;Carla Andressa Pedron;2024-1|PLE20.106|CG|N|EDF0601N;Pedagogia do Movimento [PLE20.106|CG|N|EDF0601N];Presencial (TUTOR)
@@ -1236,6 +1251,7 @@ tut1024;Davi dos Santos Marques;2024-1|PAD23103|BS|N|CSA0023N;Finanças Empresar
 tut1101;Andrea Macedo de Avila Baez Garcia;2024-1|PRH20204|BG|N|GRH0401N;Gestão de Pessoas [PRH20204|BG|N|GRH0401N];Presencial (TUTOR)
 tut1071;Wallace da Silva Carvalho;2024-1|PEL20208|BS|N|ELT0801N;Instalações Industriais [PEL20208|BS|N|ELT0801N];Presencial (TUTOR)
 tut1071;Wallace da Silva Carvalho;2024-1|PCI23101|BS|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BS|N|ENG0102N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|BS|N|JUR0302N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0302N];Presencial (TUTOR)
 tut1097;Gisele Teixeira Saleiro;2024-1|PCI23103|BS|N|ENG0303N;Soluções Criativas [PCI23103|BS|N|ENG0303N];Presencial (TUTOR)
 tut1092;Sandra Conceição Ribeiro Chicharo;2024-1|PEM21104|CG|N|ENF0401N;Mecanismos de Defesa da Vida [PEM21104|CG|N|ENF0401N];Presencial (TUTOR)
 tut1120;Carla Andressa Pedron;2024-1|PFT21107|BS|N|FTO0701N;Assistência Fisioterapêutica do Recém-Nascido e criança [PFT21107|BS|N|FTO0701N];Presencial (TUTOR)
@@ -1261,6 +1277,7 @@ tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23103|BS|M|BMV0301M;Bases do 
 tut1096;Leonardo Rodrigues Pereira;2024-1|PAR23103|BS|M|ARQ0301M;Habitar e Sociedade [PAR23103|BS|M|ARQ0301M];Presencial (TUTOR)
 tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BS|M|ADS0302M;Desenvolvimento de Aplicativos Mobile [PAS23103|BS|M|ADS0302M];Presencial (TUTOR)
 tut1056;João Gabriel Miranda;2024-1|PGA23102|BG|N|GAS0201N;Cozinha Brasileira e das Américas [PGA23102|BG|N|GAS0201N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|BS|N|JUR0303N;As ciências criminais e sua interface com a prática [PDR23103|BS|N|JUR0303N];Presencial (TUTOR)
 tut1041;Sandro Rafael de Lima;2024-1|PCI23104|BG|N|ENG0402N;Liderança e Gestão de Equipes [PCI23104|BG|N|ENG0402N];Presencial (TUTOR)
 tut1083;Marcelo Vasques De Oliveira;2024-1|PAS23103|BG|N|ADS0301N;Desenvolvimento de Aplicativos Mobile [PAS23103|BG|N|ADS0301N];Presencial (TUTOR)
 tut1123;Carla Caroline Franzini de Souza;2024-1|PBE23103|BS|M|BEF0301M;Biodinâmica do Movimento [PBE23103|BS|M|BEF0301M];Presencial (TUTOR)
@@ -1318,6 +1335,7 @@ tut1043;Raphael Fernandes Gomes;2024-1|PDR23102|BS|N|JUR0202N;Relações Jurídi
 tut1123;Carla Caroline Franzini de Souza;2024-1|PMV23102|BS|N|BMV0201N;Mecanismos Morfofisiológicos da Medicina Veterinária [PMV23102|BS|N|BMV0201N];Presencial (TUTOR)
 tut1082;Miguel Gabriel Prazeres de Carvalho;2024-1|PAS21204|BS|T|ADS0401T;Gerência de Projetos de Software [PAS21204|BS|T|ADS0401T];Presencial (TUTOR)
 tut1057;Yan Inácio da Silva;2024-1|PBE20.108|BS|N|BEF0801N;Gestão do Lazer, Fitness e Esportes [PBE20.108|BS|N|BEF0801N];Presencial (TUTOR)
+tut1043;Raphael Fernandes Gomes;2024-1|PDR23103|BS|M|JUR0302M;As ciências criminais e sua interface com a prática [PDR23103|BS|M|JUR0302M];Presencial (TUTOR)
 tut1096;Leonardo Rodrigues Pereira;2024-1|PAR20205|BG|M|ARQ0501M;Modelagem Estrutural [PAR20205|BG|M|ARQ0501M];Presencial (TUTOR)
 tut1051;Carla Monteiro Leal;2024-1|PFA21107|CG|N|FAR0701N;Desenvolvimento de Produtos Farmacêuticos [PFA21107|CG|N|FAR0701N];Presencial (TUTOR)
 tut1053;Paulo Rodrigo Martins Ramalho;2024-1|PEC19205|CG|N|EST0501N;Gestão de Empreendimentos de Beleza [PEC19205|CG|N|EST0501N];Presencial (TUTOR)
@@ -1402,3 +1420,4 @@ tut1095;Ricardo Ferreira Martins;2024-1|PFT23102|BS|M|SAU0011M;Origem da Vida [P
 tut1118;Natália Xavier Pereira da Costa;2024-1|PPE20207|BS|N|PED0701N;Pedagogia em Ação [PPE20207|BS|N|PED0701N];Presencial (TUTOR)
 tut1118;Natália Xavier Pereira da Costa;2024-1|PPE20202|BS|N|PED0201N;Sistemas Educacionais [PPE20202|BS|N|PED0201N];Presencial (TUTOR)
 tut1049;Anna Cristina Caldeira de Andrada Sobral Brisola;2024-1|PMK20.103A|BS|T|TMK0301T;Gestão de Conteúdo e Comunicação [PMK20.103A];Presencial (TUTOR)
+tut1056;João Gabriel Miranda;2024-1|PGA23102|BS|T|GAS0201T;Cozinha Brasileira e das Américas [PGA23102|BS|T|GAS0201T];Presencial (TUTOR)
