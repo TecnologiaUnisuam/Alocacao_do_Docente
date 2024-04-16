@@ -133,8 +133,8 @@ jor1023;FELIPE Santos;2024-1|PJO23102|BS|N|JOR0202N;Sociedade, Consumo e Express
 let1048;Fábia dos Santos Marucci ;2024-1|PJO23102|BS|N|JOR0202N;Sociedade, Consumo e Expressão [PJO23102|BS|N|JOR0202N];Presencial
 estpsi17;ESTPSI17 ESTPSI17;2024-1|PPS211.112|CG|N|PSI1202N;Estágio Básico II Triagem Orientação de Estágio [PPS211.112|CG|N|PSI1202N];Presencial
 estpsi13;Professor estpsi13;2024-1|PPS23113|BS|T|PSI1310T;Estágio Profissional I [PPS23113|BS|T|PSI1310T];Presencial
-mat1051;Geraldo Motta;2024-1|PME20206|BS|N|MEC0601N;Instrumentação e Controle Industrial [PME20206|BS|N|MEC0601N];Presencial
 mec1015;Andre Avelino de Oliveira Mendes;2024-1|PME20206|BS|N|MEC0601N;Instrumentação e Controle Industrial [PME20206|BS|N|MEC0601N];Presencial
+ele1024;Vinicius Medina;2024-1|PME20206|BS|N|MEC0601N;Instrumentação e Controle Industrial [PME20206|BS|N|MEC0601N];Presencial
 jur1215;Luiz Augusto Castello Branco de Lacerda Marca da Rocha;2024-1|PDR23102|BS|N|JUR0201N;Relações Jurídicas no Direito Privado [PDR23102|BS|N|JUR0201N];Presencial
 jur1265;Daniel Navarro;2024-1|PDR23102|BS|N|JUR0201N;Relações Jurídicas no Direito Privado [PDR23102|BS|N|JUR0201N];Presencial
 estpsi11;ESTPSI11 Estpsi11;2024-1|PPS211.113|CG|T|PSI1304T;Estágio Profissional I [PPS211.113|CG|T|PSI1304T];Presencial
@@ -649,7 +649,7 @@ jur1264;Rejane Pimenta Pereira;2024-1|PDR23103|CG|N|JUR0302N;As ciências crimin
 jur1272;Tamara da Cruz;2024-1|PDR23103|CG|N|JUR0302N;As ciências criminais e sua interface com a prática [PDR23103|CG|N|JUR0302N];Presencial
 ele1017;Jorge Dias Ferreira;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial
 ele1023;MARIO Chalco;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial
-mat1051;Geraldo Motta;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial
+ele1024;Vinicius Medina;2024-1|PEL20208|BG|N|ELT0801N;Instalações Industriais [PEL20208|BG|N|ELT0801N];Presencial
 pub1019;Samuel Florensio Rodrigues Otaviano;2024-1|PJO23106|BS|N|SDG0301N;Produção Digital e Experiência do Usuário [PJO23106|BS|N|SDG0301N];Presencial
 pub1029;Carlos Eduardo Ribeiro da Fonseca ;2024-1|PJO23106|BS|N|SDG0301N;Produção Digital e Experiência do Usuário [PJO23106|BS|N|SDG0301N];Presencial
 estpsi14;Professor estpsi14;2024-1|PPS23113|BS|T|PSI1311T;Estágio Profissional I Orientação de Estágio [PPS23113|BS|T|PSI1311T];Presencial
@@ -730,7 +730,7 @@ pro1122;Antonio Santos;2024-1|PLO23102|BS|N|TLG0202N;Gestão de Estoques [PLO231
 pro1141;Leonardo Lopes de Campos;2024-1|PLO23102|BS|N|TLG0202N;Gestão de Estoques [PLO23102|BS|N|TLG0202N];Presencial
 arq1055;Marcelo Vianna e Silva;2024-1|PCI23101|BG|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0102N];Presencial
 civ1131;Rosembergue Junior;2024-1|PCI23101|BG|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0102N];Presencial
-mat1051;Geraldo Motta;2024-1|PCI23101|BG|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0102N];Presencial
+mat1035;Mnica Debossam;2024-1|PCI23101|BG|N|ENG0102N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0102N];Presencial
 estfto1;ESTFTO1 ESTFTO1;2024-1|PFT21111|BS|T|FTO1101T;Estágio em Atenção Básica [PFT21111|BS|T|FTO1101T];Presencial
 bio1084;Tatiana Amorim Muniz;2024-1|PLB20212|BS|T|BIO1201T;Estágio Supervisionado em Gestão Escolar Orientação de Estágio [PLB20212|BS|T|BIO1201T];Presencial
 edf1056;Marcel Lima Lessa de Souza;2024-1|PBE20.106|BS|N|BEF0601N;Iniciação Esportiva [PBE20.106|BS|N|BEF0601N];Presencial
@@ -815,9 +815,9 @@ fto1173;Natalia Silva;2024-1|PFT21106|BS|N|FTO0601N;Gestão e Planejamento de Ca
 psi0093;Nihil Scarpine;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
 psi0132;Patrick Botelho;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
 psi0154;Juraci Silva;2024-1|PPS211.105|CG|N|PSI0501N;Grupos e instituições [PPS211.105|CG|N|PSI0501N];Presencial
-mat1051;Geraldo Motta;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
 mat1059;Antonio Carnevale Neto;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
 mec1012;Fabio Cale da Silva;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
+eng1003;Yan Oliveira Vasconcellos;2024-1|PCI23103|BS|M|ENG0301M;Soluções Criativas [PCI23103|BS|M|ENG0301M];Presencial
 arq1032;Max Santos Barbosa;2024-1|PCI23101|BG|N|ENG0103N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0103N];Presencial
 mat1035;Mnica Debossam;2024-1|PCI23101|BG|N|ENG0103N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0103N];Presencial
 pro1117;Flavio Isidoro da Silva;2024-1|PPR20206|BS|N|PRO0601N;Gestão de Operações e Processos de Produção [PPR20206|BS|N|PRO0601N];Presencial
@@ -958,7 +958,7 @@ enf1055;Patrícia de Souza;2024-1|PEM21105|BS|M|ENF0501M;Cuidados de enfermagem 
 enf1083;Roberta Kele Ribeiro Ferreira;2024-1|PEM21105|BS|M|ENF0501M;Cuidados de enfermagem e seus fundamentos [PEM21105|BS|M|ENF0501M];Presencial
 arq1009;Jaime Nogueira;2024-1|PCI23101|BG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0101N];Presencial
 civ1131;Rosembergue Junior;2024-1|PCI23101|BG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0101N];Presencial
-mat1051;Geraldo Motta;2024-1|PCI23101|BG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0101N];Presencial
+mat1035;Mnica Debossam;2024-1|PCI23101|BG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|BG|N|ENG0101N];Presencial
 bmd1008;Caio Cesar Richter Nogueira;2024-1|PBM21106|CG|M|BME0601M;Análises Clínicas [PBM21106|CG|M|BME0601M];Presencial
 bmd1009;Danielle Costa;2024-1|PBM21106|CG|M|BME0601M;Análises Clínicas [PBM21106|CG|M|BME0601M];Presencial
 gas1014;Maria de Lourdes Agostinho de Andrade;2024-1|PGA23104|BG|M|GAS0401M;Gestão em Empreendimentos Gastronômicos [PGA23104|BG|M|GAS0401M];Presencial
@@ -1075,8 +1075,8 @@ est1033;Luciana de Almeida Ferreira;2024-1|PEC24101|CG|M|EST0102M;Estética Faci
 est1029;MICHEL DA SILVA;2024-1|PEC24101|CG|M|EST0101M;Estética Facial [PEC24101|CG|M|EST0101M];Presencial
 est1033;Luciana de Almeida Ferreira;2024-1|PEC24101|CG|M|EST0101M;Estética Facial [PEC24101|CG|M|EST0101M];Presencial
 sdg1001;Adalberto Rocha;2024-1|PDG23102|BS|T|SDG0201T;Embalagem [PDG23102|BS|T|SDG0201T];Presencial
-mat1051;Geraldo Motta;2024-1|PME20206|BG|N|ENG0412N;Instrumentação e Controle Industrial [PME20206|BG|N|ENG0412N];Presencial
 mec1015;Andre Avelino de Oliveira Mendes;2024-1|PME20206|BG|N|ENG0412N;Instrumentação e Controle Industrial [PME20206|BG|N|ENG0412N];Presencial
+ele1024;Vinicius Medina;2024-1|PME20206|BG|N|ENG0412N;Instrumentação e Controle Industrial [PME20206|BG|N|ENG0412N];Presencial
 enf1055;Patrícia de Souza;2024-1|PEM21105|BS|N|SAU0068N;Cuidados de enfermagem e seus fundamentos [PEM21105|BS|N|SAU0068N];Presencial
 enf1083;Roberta Kele Ribeiro Ferreira;2024-1|PEM21105|BS|N|SAU0068N;Cuidados de enfermagem e seus fundamentos [PEM21105|BS|N|SAU0068N];Presencial
 edu2024;Maria Auxiliadora Terra Cunha;2024-1|PLE20.111|CG|T|EDF1101T;Estágio Supervisionado de Licenciatura em Educação Física III Orientação de Estágio [PLE20.111|CG|T|EDF1101T];Presencial
