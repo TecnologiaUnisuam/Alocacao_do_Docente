@@ -54,7 +54,6 @@ estpsi13;Professor estpsi13;2024-1|PPS23113|BS|N|PSI1305N;Estágio Profissional 
 bmd1010;Luiza Vasconcellos;2024-1|PBM21105|BS|N|SAU0047N;Biomedicina Estética [PBM21105|BS|N|SAU0047N];Presencial
 far1093;Adriana Santiago Soares;2024-1|PBM21105|BS|N|SAU0047N;Biomedicina Estética [PBM21105|BS|N|SAU0047N];Presencial
 bmd1011;JULIA Santos;2024-1|PBM21105|BS|N|SAU0047N;Biomedicina Estética [PBM21105|BS|N|SAU0047N];Presencial
-fto1115;Daniele Bittencourt Ferreira;2024-1|PFT21105|BS|N|FTO0501N;Ciência do Movimento [PFT21105|BS|N|FTO0501N];Presencial
 fto1129;Alexsandro da Silva Oliveira;2024-1|PFT21105|BS|N|FTO0501N;Ciência do Movimento [PFT21105|BS|N|FTO0501N];Presencial
 fto1139;Camilla Polonini Martins;2024-1|PFT21105|BS|N|FTO0501N;Ciência do Movimento [PFT21105|BS|N|FTO0501N];Presencial
 adm1479;Vanise Rios Goncalves;2024-1|PAD23103|BS|N|CSA0012N;Finanças Empresariais e Cenários Econômicos [PAD23103|BS|N|CSA0012N];Presencial
@@ -150,7 +149,6 @@ estpsi16;ESTPSI16 ESTPSI16;2024-1|PPS23113|BS|T|PSI1309T;Estágio Profissional I
 bio1091;Diego da Silva Ferreira;2024-1|PEM21104|CG|M|ENF0401M;Mecanismos de Defesa da Vida [PEM21104|CG|M|ENF0401M];Presencial
 enf1144;Andressa Fernandes David da Silva Gomes ;2024-1|PEM21104|CG|M|ENF0401M;Mecanismos de Defesa da Vida [PEM21104|CG|M|ENF0401M];Presencial
 estpsi18;ESTPSI18 ESTPSI18;2024-1|PPS211.113|CG|M|PSI1304M;Estágio Profissional I [PPS211.113|CG|M|PSI1304M];Presencial
-bmd1008;Caio Cesar Richter Nogueira;2024-1|PBM21111|CG|T|BME1101T;Estágio Supervisionado III [PBM21111|CG|T|BME1101T];Presencial
 estpsi13;Professor estpsi13;2024-1|PPS211.113|CG|N|PSI1303N;Estágio Profissional I [PPS211.113|CG|N|PSI1303N];Presencial
 inf1081;Rafael Monteiro;2024-1|PAS23101|CG|N|ADS0101N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|CG|N|ADS0101N];Presencial
 inf1083;Alexandre José;2024-1|PAS23101|CG|N|ADS0101N;Desenvolvimento de Software para Internet (Front-end) [PAS23101|CG|N|ADS0101N];Presencial
@@ -608,7 +606,6 @@ far1097;Ramon Pinheiro Aguiar;2024-1|PFA21105|BS|N|FAR0501N;Análises Químicas 
 edf1110;Claudemir do Nascimento Santos;2024-1|PBE20.110|BS|T|BEF1002T;Estágio Supervisionado de Bacharelado em Educação Física II Orientação de Estágio [PBE20.110|BS|T|BEF1002T];Presencial
 civ1133;Rachel Pires;2024-1|PCI23101|CG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|CG|N|ENG0101N];Presencial
 mat1059;Antonio Carnevale Neto;2024-1|PCI23101|CG|N|ENG0101N;Inovação e Processos de Aprendizagem [PCI23101|CG|N|ENG0101N];Presencial
-bmd1008;Caio Cesar Richter Nogueira;2024-1|PBM21111|BS|T|BME1101T;Estágio Supervisionado III [PBM21111|BS|T|BME1101T];Presencial
 bio1084;Tatiana Amorim Muniz;2024-1|PLB20209|BS|T|BIO0901T;Estágio Supervisionado no Ensino Fundamental 6º e 7º ano Orientação de Estágio [PLB20209|BS|T|BIO0901T];Presencial
 bio1097;Guilherme Curty Lechuga;2024-1|PBM21107|BS|M|BME0701M;Biotecnologia [PBM21107|BS|M|BME0701M];Presencial
 bmd1006;Phelipe Oliveira de Macedo;2024-1|PBM21107|BS|M|BME0701M;Biotecnologia [PBM21107|BS|M|BME0701M];Presencial
@@ -907,9 +904,9 @@ vet1010;Caroline Rodrigues;2024-1|PMV23103|BG|M|BMV0301M;Bases do Diagnóstico, 
 vet1011;Simone Souto;2024-1|PMV23103|BG|M|BMV0301M;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BG|M|BMV0301M];Presencial
 vet1013;ELIENE Pina;2024-1|PMV23103|BG|M|BMV0301M;Bases do Diagnóstico, Saúde e Produção Animal [PMV23103|BG|M|BMV0301M];Presencial
 estfto5;ESTFTO5 Estfto5;2024-1|PFT21112|BS|T|FTO1203T;Estágio Supervisionado do recém-nascido e criança Orientação de Estágio [PFT21112|BS|T|FTO1203T];Presencial
-fto1115;Daniele Bittencourt Ferreira;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
 fto1129;Alexsandro da Silva Oliveira;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
 fto1139;Camilla Polonini Martins;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
+fto1174;Karen Abrahao;2024-1|PFT21105|BS|M|FTO0501M;Ciência do Movimento [PFT21105|BS|M|FTO0501M];Presencial
 estnpj2;Estágio NPJ;2024-1|PDR21111|CG|N|JUR1101N;Estágio I (Direito do Trabalho) [PDR21111|CG|N|JUR1101N];Presencial
 far1092;Glauce Cardoso Desmarais;2024-1|PFA21107|BS|M|FAR0701M;Desenvolvimento de Produtos Farmacêuticos [PFA21107|BS|M|FAR0701M];Presencial
 far1102;RAIANE Diniz;2024-1|PFA21107|BS|M|FAR0701M;Desenvolvimento de Produtos Farmacêuticos [PFA21107|BS|M|FAR0701M];Presencial
